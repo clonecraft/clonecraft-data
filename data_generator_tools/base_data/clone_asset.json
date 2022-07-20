@@ -1,9 +1,9 @@
 [
   {
-    "id": 1010100001,
+    "id": 10110001,
     "name": "CxNxD Toon #1",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010100001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010100001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "genesis",
     "asset_series": "Art",
@@ -22,10 +22,10 @@
     "power_level": 11996
   },
   {
-    "id": 1010200001,
+    "id": 10120001,
     "name": "CxNxD Toon S# 01-1",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -44,10 +44,10 @@
     "power_level": 11000
   },
   {
-    "id": 1010200002,
+    "id": 10120002,
     "name": "CxNxD Toon S# 01-2",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -66,10 +66,10 @@
     "power_level": 11000
   },
   {
-    "id": 1010200003,
+    "id": 10120003,
     "name": "CxNxD Toon S# 01-3",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -88,10 +88,10 @@
     "power_level": 9300
   },
   {
-    "id": 1010200004,
+    "id": 10120004,
     "name": "CxNxD Toon S# 01-4",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -110,10 +110,10 @@
     "power_level": 10475
   },
   {
-    "id": 1010200005,
+    "id": 10120005,
     "name": "CxNxD Toon S# 01-5",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -132,10 +132,10 @@
     "power_level": 9654
   },
   {
-    "id": 1010200006,
+    "id": 10120006,
     "name": "CxNxD Toon S# 01-6",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -154,10 +154,10 @@
     "power_level": 10000
   },
   {
-    "id": 1010200007,
+    "id": 10120007,
     "name": "CxNxD Toon S# 01-7",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -176,10 +176,10 @@
     "power_level": 8850
   },
   {
-    "id": 1010200008,
+    "id": 10120008,
     "name": "CxNxD Toon S# 01-8",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -198,10 +198,10 @@
     "power_level": 10326
   },
   {
-    "id": 1010200009,
+    "id": 10120009,
     "name": "CxNxD Toon S# 01-9",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -220,10 +220,10 @@
     "power_level": 8746
   },
   {
-    "id": 1010200010,
+    "id": 10120010,
     "name": "CxNxD Toon S# 01-10",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -242,10 +242,10 @@
     "power_level": 8986
   },
   {
-    "id": 1010200011,
+    "id": 10120011,
     "name": "CxNxD Toon S# 01-11",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200011.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200011.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -264,10 +264,10 @@
     "power_level": 9537
   },
   {
-    "id": 1010200012,
+    "id": 10120012,
     "name": "CxNxD Toon S# 01-12",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200012.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200012.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -286,10 +286,10 @@
     "power_level": 10330
   },
   {
-    "id": 1010200013,
+    "id": 10120013,
     "name": "CxNxD Toon S# 01-13",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200013.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200013.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -308,10 +308,10 @@
     "power_level": 10796
   },
   {
-    "id": 1010200014,
+    "id": 10120014,
     "name": "CxNxD Toon S# 01-14",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200014.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200014.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -330,10 +330,10 @@
     "power_level": 10400
   },
   {
-    "id": 1010200015,
+    "id": 10120015,
     "name": "CxNxD Toon S# 01-15",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200015.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200015.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -352,10 +352,10 @@
     "power_level": 9750
   },
   {
-    "id": 1010200016,
+    "id": 10120016,
     "name": "CxNxD Toon S# 01-16",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200016.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200016.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -374,10 +374,10 @@
     "power_level": 8650
   },
   {
-    "id": 1010200017,
+    "id": 10120017,
     "name": "CxNxD Toon S# 01-17",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200017.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200017.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -396,10 +396,10 @@
     "power_level": 9575
   },
   {
-    "id": 1010200018,
+    "id": 10120018,
     "name": "CxNxD Toon S# 01-18",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200018.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200018.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -418,10 +418,10 @@
     "power_level": 9203
   },
   {
-    "id": 1010200019,
+    "id": 10120019,
     "name": "CxNxD Toon S# 01-19",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200019.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200019.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -440,10 +440,10 @@
     "power_level": 8863
   },
   {
-    "id": 1010200020,
+    "id": 10120020,
     "name": "CxNxD Toon S# 01-20",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200020.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200020.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -462,10 +462,10 @@
     "power_level": 8604
   },
   {
-    "id": 1010200021,
+    "id": 10120021,
     "name": "CxNxD Toon S# 01-21",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200021.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200021.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -484,10 +484,10 @@
     "power_level": 9084
   },
   {
-    "id": 1010200022,
+    "id": 10120022,
     "name": "CxNxD Toon S# 01-22",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200022.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200022.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -506,10 +506,10 @@
     "power_level": 10576
   },
   {
-    "id": 1010200023,
+    "id": 10120023,
     "name": "CxNxD Toon S# 01-23",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200023.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200023.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -528,10 +528,10 @@
     "power_level": 8772
   },
   {
-    "id": 1010200024,
+    "id": 10120024,
     "name": "CxNxD Toon S# 01-24",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200024.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200024.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -550,10 +550,10 @@
     "power_level": 9775
   },
   {
-    "id": 1010200025,
+    "id": 10120025,
     "name": "CxNxD Toon S# 01-25",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200025.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200025.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -572,10 +572,10 @@
     "power_level": 10183
   },
   {
-    "id": 1010200026,
+    "id": 10120026,
     "name": "CxNxD Toon S# 01-26",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200026.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200026.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -594,10 +594,10 @@
     "power_level": 10400
   },
   {
-    "id": 1010200027,
+    "id": 10120027,
     "name": "CxNxD Toon S# 01-27",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200027.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200027.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -616,10 +616,10 @@
     "power_level": 9959
   },
   {
-    "id": 1010200028,
+    "id": 10120028,
     "name": "CxNxD Toon S# 01-28",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200028.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200028.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -638,10 +638,10 @@
     "power_level": 8750
   },
   {
-    "id": 1010200029,
+    "id": 10120029,
     "name": "CxNxD Toon S# 01-29",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200029.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200029.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -660,10 +660,10 @@
     "power_level": 8975
   },
   {
-    "id": 1010200030,
+    "id": 10120030,
     "name": "CxNxD Toon S# 01-30",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200030.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200030.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -682,10 +682,10 @@
     "power_level": 9050
   },
   {
-    "id": 1010200031,
+    "id": 10120031,
     "name": "CxNxD Toon S# 02-1",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200031.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200031.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -704,10 +704,10 @@
     "power_level": 10750
   },
   {
-    "id": 1010200032,
+    "id": 10120032,
     "name": "CxNxD Toon S# 02-2",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200032.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200032.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -726,10 +726,10 @@
     "power_level": 9313
   },
   {
-    "id": 1010200033,
+    "id": 10120033,
     "name": "CxNxD Toon S# 02-18",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200033.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200033.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -748,10 +748,10 @@
     "power_level": 10674
   },
   {
-    "id": 1010200034,
+    "id": 10120034,
     "name": "CxNxD Toon S# 02-19",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200034.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200034.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -770,10 +770,10 @@
     "power_level": 9350
   },
   {
-    "id": 1010200035,
+    "id": 10120035,
     "name": "CxNxD Toon S# 02-27",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200035.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200035.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -792,10 +792,10 @@
     "power_level": 9433
   },
   {
-    "id": 1010200036,
+    "id": 10120036,
     "name": "CxNxD Toon S# 02-28",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200036.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200036.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Toon",
@@ -814,10 +814,10 @@
     "power_level": 8849
   },
   {
-    "id": 1010200037,
+    "id": 10120037,
     "name": "CxNxD X TENMEN HALO",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200037.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200037.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Tenmen",
@@ -836,10 +836,10 @@
     "power_level": 9760
   },
   {
-    "id": 1010200038,
+    "id": 10120038,
     "name": "CxNxD X J.Boots Hallucinated Background",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200038.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200038.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "J.Boots",
@@ -858,10 +858,10 @@
     "power_level": 9758
   },
   {
-    "id": 1010200039,
+    "id": 10120039,
     "name": "Rock pattern",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200039.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200039.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -880,10 +880,10 @@
     "power_level": 9337
   },
   {
-    "id": 1010200040,
+    "id": 10120040,
     "name": "Cyber",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200040.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200040.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -902,10 +902,10 @@
     "power_level": 9248
   },
   {
-    "id": 1010200041,
+    "id": 10120041,
     "name": "Jungle",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010200041.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010200041.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -924,10 +924,32 @@
     "power_level": 9947
   },
   {
-    "id": 1010300001,
+    "id": 10120042,
+    "name": "CxNxD X PaperChildren Scribbling Background",
+    "image": "main_image",
+    "base_image": "base_image",
+    "asset_type": "background",
+    "asset_grade": "legend",
+    "asset_series": "PaperChildren",
+    "attack": 777,
+    "defense": 777,
+    "luck": 777,
+    "speed": 5,
+    "evade": 7,
+    "hitrate": 7,
+    "divine": 777,
+    "diabolic": 777,
+    "ignis": 777,
+    "aqua": 777,
+    "aer": 777,
+    "terra": 777,
+    "power_level": 9743
+  },
+  {
+    "id": 10130001,
     "name": "CxNxD Toon S# 02-3",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -946,10 +968,10 @@
     "power_level": 6518
   },
   {
-    "id": 1010300002,
+    "id": 10130002,
     "name": "CxNxD Toon S# 02-4",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -968,10 +990,10 @@
     "power_level": 6100
   },
   {
-    "id": 1010300003,
+    "id": 10130003,
     "name": "CxNxD Toon S# 02-5",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -990,10 +1012,10 @@
     "power_level": 6350
   },
   {
-    "id": 1010300004,
+    "id": 10130004,
     "name": "CxNxD Toon S# 02-6",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1012,10 +1034,10 @@
     "power_level": 7605
   },
   {
-    "id": 1010300005,
+    "id": 10130005,
     "name": "CxNxD Toon S# 02-7",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1034,10 +1056,10 @@
     "power_level": 7577
   },
   {
-    "id": 1010300006,
+    "id": 10130006,
     "name": "CxNxD Toon S# 02-8",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1056,10 +1078,10 @@
     "power_level": 6840
   },
   {
-    "id": 1010300007,
+    "id": 10130007,
     "name": "CxNxD Toon S# 02-9",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1078,10 +1100,10 @@
     "power_level": 5867
   },
   {
-    "id": 1010300008,
+    "id": 10130008,
     "name": "CxNxD Toon S# 02-10",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1100,10 +1122,10 @@
     "power_level": 6985
   },
   {
-    "id": 1010300009,
+    "id": 10130009,
     "name": "CxNxD Toon S# 02-11",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1122,10 +1144,10 @@
     "power_level": 5953
   },
   {
-    "id": 1010300010,
+    "id": 10130010,
     "name": "CxNxD Toon S# 02-12",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1144,10 +1166,10 @@
     "power_level": 6060
   },
   {
-    "id": 1010300011,
+    "id": 10130011,
     "name": "CxNxD Toon S# 02-13",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300011.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300011.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1166,10 +1188,10 @@
     "power_level": 6353
   },
   {
-    "id": 1010300012,
+    "id": 10130012,
     "name": "CxNxD Toon S# 02-14",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300012.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300012.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1188,10 +1210,10 @@
     "power_level": 6331
   },
   {
-    "id": 1010300013,
+    "id": 10130013,
     "name": "CxNxD Toon S# 02-15",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300013.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300013.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1210,10 +1232,10 @@
     "power_level": 6680
   },
   {
-    "id": 1010300014,
+    "id": 10130014,
     "name": "CxNxD Toon S# 02-16",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300014.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300014.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1232,10 +1254,10 @@
     "power_level": 6137
   },
   {
-    "id": 1010300015,
+    "id": 10130015,
     "name": "CxNxD Toon S# 02-17",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300015.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300015.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1254,10 +1276,10 @@
     "power_level": 7137
   },
   {
-    "id": 1010300016,
+    "id": 10130016,
     "name": "CxNxD Toon S# 02-20",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300016.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300016.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1276,10 +1298,10 @@
     "power_level": 7617
   },
   {
-    "id": 1010300017,
+    "id": 10130017,
     "name": "CxNxD Toon S# 02-21",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300017.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300017.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1298,10 +1320,10 @@
     "power_level": 6295
   },
   {
-    "id": 1010300018,
+    "id": 10130018,
     "name": "CxNxD Toon S# 02-22",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300018.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300018.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1320,10 +1342,10 @@
     "power_level": 6735
   },
   {
-    "id": 1010300019,
+    "id": 10130019,
     "name": "CxNxD Toon S# 02-23",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300019.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300019.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1342,10 +1364,10 @@
     "power_level": 6405
   },
   {
-    "id": 1010300020,
+    "id": 10130020,
     "name": "CxNxD Toon S# 02-24",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300020.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300020.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1364,10 +1386,10 @@
     "power_level": 6850
   },
   {
-    "id": 1010300021,
+    "id": 10130021,
     "name": "CxNxD Toon S# 02-25",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300021.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300021.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1386,10 +1408,10 @@
     "power_level": 6350
   },
   {
-    "id": 1010300022,
+    "id": 10130022,
     "name": "CxNxD Toon S# 02-26",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300022.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300022.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1408,10 +1430,10 @@
     "power_level": 6585
   },
   {
-    "id": 1010300023,
+    "id": 10130023,
     "name": "CxNxD Toon S# 02-29",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300023.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300023.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1430,10 +1452,10 @@
     "power_level": 6160
   },
   {
-    "id": 1010300024,
+    "id": 10130024,
     "name": "CxNxD Toon S# 02-30",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300024.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300024.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Toon",
@@ -1452,10 +1474,10 @@
     "power_level": 7202
   },
   {
-    "id": 1010300025,
+    "id": 10130025,
     "name": "Purple paper",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300025.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300025.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -1474,10 +1496,10 @@
     "power_level": 6250
   },
   {
-    "id": 1010300026,
+    "id": 10130026,
     "name": "Blue smoke",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300026.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300026.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -1496,10 +1518,10 @@
     "power_level": 6229
   },
   {
-    "id": 1010300027,
+    "id": 10130027,
     "name": "Black out",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300027.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300027.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -1518,10 +1540,10 @@
     "power_level": 6465
   },
   {
-    "id": 1010300028,
+    "id": 10130028,
     "name": "Violet paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300028.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300028.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -1540,10 +1562,10 @@
     "power_level": 7032
   },
   {
-    "id": 1010300029,
+    "id": 10130029,
     "name": "Red paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010300029.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010300029.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -1562,10 +1584,10 @@
     "power_level": 8107
   },
   {
-    "id": 1010400001,
+    "id": 10140001,
     "name": "Confuse - blue",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -1584,10 +1606,10 @@
     "power_level": 3450
   },
   {
-    "id": 1010400002,
+    "id": 10140002,
     "name": "Confuse - red",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -1606,10 +1628,10 @@
     "power_level": 3613
   },
   {
-    "id": 1010400003,
+    "id": 10140003,
     "name": "Confuse - green",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -1628,10 +1650,10 @@
     "power_level": 3450
   },
   {
-    "id": 1010400004,
+    "id": 10140004,
     "name": "Purple paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -1650,10 +1672,10 @@
     "power_level": 3895
   },
   {
-    "id": 1010400005,
+    "id": 10140005,
     "name": "Black paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010400005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010400005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -1672,10 +1694,10 @@
     "power_level": 3705
   },
   {
-    "id": 1010500001,
+    "id": 10150001,
     "name": "Digital - green",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -1694,10 +1716,10 @@
     "power_level": 2160
   },
   {
-    "id": 1010500002,
+    "id": 10150002,
     "name": "Digital - purple",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -1716,10 +1738,10 @@
     "power_level": 1750
   },
   {
-    "id": 1010500003,
+    "id": 10150003,
     "name": "Digital - gray",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -1738,10 +1760,10 @@
     "power_level": 2144
   },
   {
-    "id": 1010500004,
+    "id": 10150004,
     "name": "Grey",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -1760,10 +1782,10 @@
     "power_level": 1975
   },
   {
-    "id": 1010500005,
+    "id": 10150005,
     "name": "Mint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -1782,10 +1804,10 @@
     "power_level": 1675
   },
   {
-    "id": 1010500006,
+    "id": 10150006,
     "name": "Olive",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -1804,10 +1826,10 @@
     "power_level": 1800
   },
   {
-    "id": 1010500007,
+    "id": 10150007,
     "name": "Orange",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -1826,10 +1848,10 @@
     "power_level": 2400
   },
   {
-    "id": 1010500008,
+    "id": 10150008,
     "name": "Red",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -1848,10 +1870,10 @@
     "power_level": 2075
   },
   {
-    "id": 1010500009,
+    "id": 10150009,
     "name": "Salmon",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -1870,10 +1892,10 @@
     "power_level": 1875
   },
   {
-    "id": 1010500010,
+    "id": 10150010,
     "name": "White",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1010500010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1010500010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "background",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -1892,10 +1914,10 @@
     "power_level": 1675
   },
   {
-    "id": 1020200001,
+    "id": 10220001,
     "name": "King and God's Will",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1020200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1020200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "situation",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -1914,10 +1936,10 @@
     "power_level": 9555
   },
   {
-    "id": 1020300001,
+    "id": 10230001,
     "name": "Dimension",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1020300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1020300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "situation",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -1936,10 +1958,10 @@
     "power_level": 7165
   },
   {
-    "id": 1020400001,
+    "id": 10240001,
     "name": "War",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1020400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1020400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "situation",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -1958,10 +1980,10 @@
     "power_level": 4729
   },
   {
-    "id": 1020400002,
+    "id": 10240002,
     "name": "Smoke",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1020400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1020400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "situation",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -1980,10 +2002,10 @@
     "power_level": 4513
   },
   {
-    "id": 1020500001,
+    "id": 10250001,
     "name": "Disposing of",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1020500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1020500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "situation",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -2002,10 +2024,10 @@
     "power_level": 1975
   },
   {
-    "id": 1020500002,
+    "id": 10250002,
     "name": "Starting",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1020500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1020500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "situation",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -2024,10 +2046,10 @@
     "power_level": 2250
   },
   {
-    "id": 1030200001,
+    "id": 10320001,
     "name": "Bazooka stolen from a human",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -2046,10 +2068,10 @@
     "power_level": 10341
   },
   {
-    "id": 1030200002,
+    "id": 10320002,
     "name": "The sword from the ring - vampire",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -2068,10 +2090,10 @@
     "power_level": 9245
   },
   {
-    "id": 1030200003,
+    "id": 10320003,
     "name": "The sword from the ring - marine",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -2090,10 +2112,10 @@
     "power_level": 9553
   },
   {
-    "id": 1030300001,
+    "id": 10330001,
     "name": "King's sword - Pector",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -2112,10 +2134,10 @@
     "power_level": 7754
   },
   {
-    "id": 1030300002,
+    "id": 10330002,
     "name": "King's sword - Triad",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -2134,10 +2156,10 @@
     "power_level": 7484
   },
   {
-    "id": 1030300003,
+    "id": 10330003,
     "name": "King's sword - Groo",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -2156,10 +2178,10 @@
     "power_level": 7430
   },
   {
-    "id": 1030400001,
+    "id": 10340001,
     "name": "Blood wing",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -2178,10 +2200,10 @@
     "power_level": 4273
   },
   {
-    "id": 1030400002,
+    "id": 10340002,
     "name": "Marine's blood wing",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -2200,10 +2222,10 @@
     "power_level": 4075
   },
   {
-    "id": 1030400003,
+    "id": 10340003,
     "name": "Shining wings",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -2222,10 +2244,10 @@
     "power_level": 5200
   },
   {
-    "id": 1030400004,
+    "id": 10340004,
     "name": "Fire sword of lao",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -2244,10 +2266,10 @@
     "power_level": 4487
   },
   {
-    "id": 1030400005,
+    "id": 10340005,
     "name": "Wind sword of lao",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030400005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030400005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -2266,10 +2288,10 @@
     "power_level": 4315
   },
   {
-    "id": 1030500001,
+    "id": 10350001,
     "name": "Poison spear of XXX",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2288,10 +2310,10 @@
     "power_level": 1713
   },
   {
-    "id": 1030500002,
+    "id": 10350002,
     "name": "Spear of XXX",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2310,10 +2332,10 @@
     "power_level": 1613
   },
   {
-    "id": 1030500003,
+    "id": 10350003,
     "name": "Dagger with Sue's blood",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2332,10 +2354,10 @@
     "power_level": 1898
   },
   {
-    "id": 1030500004,
+    "id": 10350004,
     "name": "Dagger with Oris's blood",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2354,10 +2376,10 @@
     "power_level": 1895
   },
   {
-    "id": 1030500005,
+    "id": 10350005,
     "name": "Scythe that cuts through the sea",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030500005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030500005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2376,10 +2398,10 @@
     "power_level": 1815
   },
   {
-    "id": 1030500006,
+    "id": 10350006,
     "name": "Scythe that cuts through the night",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1030500006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1030500006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "weapon",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2398,10 +2420,10 @@
     "power_level": 2210
   },
   {
-    "id": 1040200001,
+    "id": 10420001,
     "name": "CxNxD X J.Boots Tribal Body",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "legend",
     "asset_series": "J.Boots",
@@ -2420,10 +2442,10 @@
     "power_level": 10531
   },
   {
-    "id": 1040200002,
+    "id": 10420002,
     "name": "Heavenly body",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -2442,10 +2464,10 @@
     "power_level": 10539
   },
   {
-    "id": 1040200003,
+    "id": 10420003,
     "name": "Not feeling pain",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -2464,10 +2486,10 @@
     "power_level": 9254
   },
   {
-    "id": 1040200004,
+    "id": 10420004,
     "name": "The one who doesn't want to be caught",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040200004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040200004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -2486,10 +2508,10 @@
     "power_level": 9217
   },
   {
-    "id": 1040300001,
+    "id": 10430001,
     "name": "Killed the king",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -2508,10 +2530,10 @@
     "power_level": 7377
   },
   {
-    "id": 1040300002,
+    "id": 10430002,
     "name": "Corrupt digital",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -2530,10 +2552,10 @@
     "power_level": 6705
   },
   {
-    "id": 1040300003,
+    "id": 10430003,
     "name": "Went ahead",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -2552,10 +2574,10 @@
     "power_level": 6546
   },
   {
-    "id": 1040300004,
+    "id": 10430004,
     "name": "Vampire",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040300004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040300004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -2574,10 +2596,10 @@
     "power_level": 7620
   },
   {
-    "id": 1040400001,
+    "id": 10440001,
     "name": "Comics",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -2596,10 +2618,10 @@
     "power_level": 3450
   },
   {
-    "id": 1040400002,
+    "id": 10440002,
     "name": "Tone",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -2618,10 +2640,10 @@
     "power_level": 3695
   },
   {
-    "id": 1040400003,
+    "id": 10440003,
     "name": "Dummy",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -2640,10 +2662,10 @@
     "power_level": 5033
   },
   {
-    "id": 1040400004,
+    "id": 10440004,
     "name": "Interacting with water",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -2662,10 +2684,10 @@
     "power_level": 5150
   },
   {
-    "id": 1040400005,
+    "id": 10440005,
     "name": "Natural Clones",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040400005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040400005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -2684,10 +2706,10 @@
     "power_level": 4890
   },
   {
-    "id": 1040500001,
+    "id": 10450001,
     "name": "Dot",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2706,10 +2728,10 @@
     "power_level": 2050
   },
   {
-    "id": 1040500002,
+    "id": 10450002,
     "name": "Noise",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -2728,10 +2750,10 @@
     "power_level": 1675
   },
   {
-    "id": 1040500003,
+    "id": 10450003,
     "name": "Don't want to stand out",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -2750,10 +2772,10 @@
     "power_level": 1390
   },
   {
-    "id": 1040500004,
+    "id": 10450004,
     "name": "High powered",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -2772,10 +2794,10 @@
     "power_level": 1800
   },
   {
-    "id": 1040500005,
+    "id": 10450005,
     "name": "Human clones",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1040500005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1040500005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "body",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -2794,10 +2816,10 @@
     "power_level": 1675
   },
   {
-    "id": 1050200001,
+    "id": 10520001,
     "name": "Vestiges",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -2816,10 +2838,10 @@
     "power_level": 9312
   },
   {
-    "id": 1050200002,
+    "id": 10520002,
     "name": "Pierrot",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -2838,10 +2860,10 @@
     "power_level": 8886
   },
   {
-    "id": 1050300001,
+    "id": 10530001,
     "name": "No.1",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -2860,10 +2882,10 @@
     "power_level": 7085
   },
   {
-    "id": 1050300002,
+    "id": 10530002,
     "name": "Hearts And Lips",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -2882,10 +2904,10 @@
     "power_level": 6350
   },
   {
-    "id": 1050300003,
+    "id": 10530003,
     "name": "Shibal",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -2904,10 +2926,10 @@
     "power_level": 6544
   },
   {
-    "id": 1050400001,
+    "id": 10540001,
     "name": "NFT Busan 2021 Tattoo",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "rare",
     "asset_series": "NFT Busan 2021",
@@ -2926,10 +2948,10 @@
     "power_level": 3610
   },
   {
-    "id": 1050400002,
+    "id": 10540002,
     "name": "Red And White Paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -2948,10 +2970,10 @@
     "power_level": 3842
   },
   {
-    "id": 1050400003,
+    "id": 10540003,
     "name": "Oh love",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -2970,10 +2992,10 @@
     "power_level": 3604
   },
   {
-    "id": 1050500001,
+    "id": 10550001,
     "name": "A Mans Of Hope",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -2992,10 +3014,10 @@
     "power_level": 1915
   },
   {
-    "id": 1050500002,
+    "id": 10550002,
     "name": "Butterfly",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -3014,10 +3036,10 @@
     "power_level": 1540
   },
   {
-    "id": 1050500003,
+    "id": 10550003,
     "name": "Two Hips",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1050500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1050500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "tattoo",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -3036,10 +3058,10 @@
     "power_level": 1050
   },
   {
-    "id": 1060200001,
+    "id": 10620001,
     "name": "Liquid cigarettes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -3058,10 +3080,10 @@
     "power_level": 10105
   },
   {
-    "id": 1060200002,
+    "id": 10620002,
     "name": "Blurred",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -3080,10 +3102,10 @@
     "power_level": 9720
   },
   {
-    "id": 1060200003,
+    "id": 10620003,
     "name": "Duck",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -3102,10 +3124,10 @@
     "power_level": 9280
   },
   {
-    "id": 1060200004,
+    "id": 10620004,
     "name": "Smoke",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060200004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060200004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -3124,10 +3146,10 @@
     "power_level": 9050
   },
   {
-    "id": 1060300001,
+    "id": 10630001,
     "name": "Something to say",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -3146,10 +3168,10 @@
     "power_level": 7414
   },
   {
-    "id": 1060300002,
+    "id": 10630002,
     "name": "Pipe",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -3168,10 +3190,10 @@
     "power_level": 7155
   },
   {
-    "id": 1060300003,
+    "id": 10630003,
     "name": "Smile",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -3190,10 +3212,10 @@
     "power_level": 7327
   },
   {
-    "id": 1060400001,
+    "id": 10640001,
     "name": "Chief's pattern",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -3212,10 +3234,10 @@
     "power_level": 3861
   },
   {
-    "id": 1060400002,
+    "id": 10640002,
     "name": "Teeth",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -3234,10 +3256,10 @@
     "power_level": 4780
   },
   {
-    "id": 1060400003,
+    "id": 10640003,
     "name": "X",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -3256,10 +3278,10 @@
     "power_level": 4153
   },
   {
-    "id": 1060400004,
+    "id": 10640004,
     "name": "404 Not fouind",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -3278,10 +3300,10 @@
     "power_level": 4347
   },
   {
-    "id": 1060500001,
+    "id": 10650001,
     "name": "Wild",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -3300,10 +3322,10 @@
     "power_level": 1990
   },
   {
-    "id": 1060500002,
+    "id": 10650002,
     "name": "Silence",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -3322,10 +3344,10 @@
     "power_level": 1401
   },
   {
-    "id": 1060500003,
+    "id": 10650003,
     "name": "Torn",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -3344,10 +3366,10 @@
     "power_level": 2700
   },
   {
-    "id": 1060500004,
+    "id": 10650004,
     "name": "Boring",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -3366,10 +3388,10 @@
     "power_level": 1550
   },
   {
-    "id": 1060500005,
+    "id": 10650005,
     "name": "Binky",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1060500005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1060500005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mouth",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -3388,10 +3410,10 @@
     "power_level": 1500
   },
   {
-    "id": 1070200001,
+    "id": 10720001,
     "name": "CxNxD X TENMEN EYES",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Tenmen",
@@ -3410,10 +3432,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200002,
+    "id": 10720002,
     "name": "Blurred",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -3432,10 +3454,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200003,
+    "id": 10720003,
     "name": "Imitating eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -3454,10 +3476,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200004,
+    "id": 10720004,
     "name": "sealed eyes - Upper",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -3476,10 +3498,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200005,
+    "id": 10720005,
     "name": "XXX",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -3498,10 +3520,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200006,
+    "id": 10720006,
     "name": "Cross scar",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -3520,10 +3542,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200007,
+    "id": 10720007,
     "name": "Decaying eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -3542,10 +3564,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200008,
+    "id": 10720008,
     "name": "Blooming eyes 2",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -3564,10 +3586,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070200009,
+    "id": 10720009,
     "name": "Laser eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070200009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070200009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -3586,10 +3608,10 @@
     "power_level": 11875
   },
   {
-    "id": 1070300001,
+    "id": 10730001,
     "name": "Comics",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -3608,10 +3630,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300002,
+    "id": 10730002,
     "name": "Confusion in the skull",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -3630,10 +3652,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300003,
+    "id": 10730003,
     "name": "Laser",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -3652,10 +3674,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300004,
+    "id": 10730004,
     "name": "Red sculpture",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -3674,10 +3696,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300005,
+    "id": 10730005,
     "name": "TVIA's eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -3696,10 +3718,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300006,
+    "id": 10730006,
     "name": "Blue tears",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -3718,10 +3740,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300007,
+    "id": 10730007,
     "name": "Three cross eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -3740,10 +3762,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300008,
+    "id": 10730008,
     "name": "Nailed",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -3762,10 +3784,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300009,
+    "id": 10730009,
     "name": "Like It and Don't Like It",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -3784,10 +3806,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070300010,
+    "id": 10730010,
     "name": "Four eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070300010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070300010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -3806,10 +3828,10 @@
     "power_level": 11175
   },
   {
-    "id": 1070400001,
+    "id": 10740001,
     "name": "Energy microscope - marine",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -3828,10 +3850,10 @@
     "power_level": 10350
   },
   {
-    "id": 1070400002,
+    "id": 10740002,
     "name": "Energy microscope - poison",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -3850,10 +3872,10 @@
     "power_level": 10600
   },
   {
-    "id": 1070400003,
+    "id": 10740003,
     "name": "Energy microscope - predator",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -3872,10 +3894,10 @@
     "power_level": 10350
   },
   {
-    "id": 1070400004,
+    "id": 10740004,
     "name": "Remnants scar - green",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -3894,10 +3916,10 @@
     "power_level": 10600
   },
   {
-    "id": 1070400005,
+    "id": 10740005,
     "name": "Remnants scar - yellow",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -3916,10 +3938,10 @@
     "power_level": 10475
   },
   {
-    "id": 1070400006,
+    "id": 10740006,
     "name": "Someone's covering",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -3938,10 +3960,10 @@
     "power_level": 10475
   },
   {
-    "id": 1070400007,
+    "id": 10740007,
     "name": "Black paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -3960,10 +3982,10 @@
     "power_level": 10475
   },
   {
-    "id": 1070400008,
+    "id": 10740008,
     "name": "Deputy's eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -3982,10 +4004,10 @@
     "power_level": 10475
   },
   {
-    "id": 1070400009,
+    "id": 10740009,
     "name": "Red paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070400009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070400009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -4004,10 +4026,10 @@
     "power_level": 10475
   },
   {
-    "id": 1070500001,
+    "id": 10750001,
     "name": "Cross eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -4026,10 +4048,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500002,
+    "id": 10750002,
     "name": "Eyes abandoned by God - red",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -4048,10 +4070,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500003,
+    "id": 10750003,
     "name": "Eyes abandoned by God - purple",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -4070,10 +4092,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500004,
+    "id": 10750004,
     "name": "God's grandson's eyes - Uno's DNA",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -4092,10 +4114,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500005,
+    "id": 10750005,
     "name": "God's grandson's eyes - Lum's DNA",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -4114,10 +4136,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500006,
+    "id": 10750006,
     "name": "Cloth to see",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -4136,10 +4158,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500007,
+    "id": 10750007,
     "name": "Cloth to see - liquid",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -4158,10 +4180,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500008,
+    "id": 10750008,
     "name": "Squireted Rotten eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -4180,10 +4202,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500009,
+    "id": 10750009,
     "name": "Blooming eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -4202,10 +4224,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500010,
+    "id": 10750010,
     "name": "Coin Skull eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -4224,10 +4246,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500011,
+    "id": 10750011,
     "name": "Squinting eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500011.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500011.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -4246,10 +4268,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500012,
+    "id": 10750012,
     "name": "Stupid eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500012.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500012.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -4268,10 +4290,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500013,
+    "id": 10750013,
     "name": "Unwilling to see",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500013.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500013.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -4290,10 +4312,10 @@
     "power_level": 9775
   },
   {
-    "id": 1070500014,
+    "id": 10750014,
     "name": "Yellow eyes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1070500014.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1070500014.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "eyes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -4312,10 +4334,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080100001,
+    "id": 10810001,
     "name": "Meta Clone Suit",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080100001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080100001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "genesis",
     "asset_series": "Meta Clone",
@@ -4334,10 +4356,10 @@
     "power_level": 12000
   },
   {
-    "id": 1080200001,
+    "id": 10820001,
     "name": "CxNxD X J.Boots Pre Modern Armour",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "legend",
     "asset_series": "J.Boots",
@@ -4356,10 +4378,10 @@
     "power_level": 11875
   },
   {
-    "id": 1080200002,
+    "id": 10820002,
     "name": "Combat uniform - Canal",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -4378,10 +4400,10 @@
     "power_level": 11875
   },
   {
-    "id": 1080200003,
+    "id": 10820003,
     "name": "Combat uniform - Tuber",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -4400,10 +4422,10 @@
     "power_level": 11875
   },
   {
-    "id": 1080200004,
+    "id": 10820004,
     "name": "Cracked plaster",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080200004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080200004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -4422,10 +4444,10 @@
     "power_level": 11875
   },
   {
-    "id": 1080200005,
+    "id": 10820005,
     "name": "Black windbreaker",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080200005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080200005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -4444,10 +4466,10 @@
     "power_level": 11875
   },
   {
-    "id": 1080200006,
+    "id": 10820006,
     "name": "Purple hood",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080200006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080200006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -4466,10 +4488,10 @@
     "power_level": 11875
   },
   {
-    "id": 1080200007,
+    "id": 10820007,
     "name": "Black hoodie",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080200007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080200007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -4488,10 +4510,10 @@
     "power_level": 11875
   },
   {
-    "id": 1080300001,
+    "id": 10830001,
     "name": "Halloween 2021 edition black fur coat",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Halloween 2021",
@@ -4510,10 +4532,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300002,
+    "id": 10830002,
     "name": "Supporters Uniform",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Supporters",
@@ -4532,10 +4554,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300003,
+    "id": 10830003,
     "name": "Combat uniform - Flexor",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4554,10 +4576,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300004,
+    "id": 10830004,
     "name": "Combat uniform - Sarcolem",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4576,10 +4598,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300005,
+    "id": 10830005,
     "name": "Combat uniform - Alba",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4598,10 +4620,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300006,
+    "id": 10830006,
     "name": "Prison garb",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4620,10 +4642,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300007,
+    "id": 10830007,
     "name": "Terrible prison uniform",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4642,10 +4664,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300008,
+    "id": 10830008,
     "name": "Windbreaker - digital",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4664,10 +4686,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300009,
+    "id": 10830009,
     "name": "Windbreaker hoodie - digital",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4686,10 +4708,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300010,
+    "id": 10830010,
     "name": "Pajamas",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -4708,10 +4730,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300011,
+    "id": 10830011,
     "name": "Leopard padding",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300011.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300011.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -4730,10 +4752,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300012,
+    "id": 10830012,
     "name": "King's padding",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300012.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300012.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -4752,10 +4774,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300013,
+    "id": 10830013,
     "name": "Graffiti printed T shirt",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300013.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300013.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -4774,10 +4796,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300014,
+    "id": 10830014,
     "name": "Green and black windbreaker",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300014.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300014.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -4796,10 +4818,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300015,
+    "id": 10830015,
     "name": "Black leather jacket",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300015.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300015.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -4818,10 +4840,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300016,
+    "id": 10830016,
     "name": "Lip hoodie",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300016.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300016.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -4840,10 +4862,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080300017,
+    "id": 10830017,
     "name": "Red leather jacket",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080300017.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080300017.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -4862,10 +4884,10 @@
     "power_level": 11175
   },
   {
-    "id": 1080400001,
+    "id": 10840001,
     "name": "NFT Busan 2021 Clothes",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "NFT Busan 2021",
@@ -4884,10 +4906,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400002,
+    "id": 10840002,
     "name": "Plaster",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -4906,10 +4928,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400003,
+    "id": 10840003,
     "name": "Combat uniform - XXX",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -4928,10 +4950,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400004,
+    "id": 10840004,
     "name": "Combat uniform - Tract",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -4950,10 +4972,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400005,
+    "id": 10840005,
     "name": "Combat uniform - Patella",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -4972,10 +4994,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400006,
+    "id": 10840006,
     "name": "Combat uniform - Capsule",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -4994,10 +5016,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400007,
+    "id": 10840007,
     "name": "Rags",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -5016,10 +5038,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400008,
+    "id": 10840008,
     "name": "Paint hoodie - Red",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -5038,10 +5060,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400009,
+    "id": 10840009,
     "name": "Paint hoodie - green",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -5060,10 +5082,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400010,
+    "id": 10840010,
     "name": "Paint hoodie - Blue",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -5082,10 +5104,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400011,
+    "id": 10840011,
     "name": "Digital hoodie",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400011.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400011.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -5104,10 +5126,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400012,
+    "id": 10840012,
     "name": "Yellow jumper",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400012.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400012.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5126,10 +5148,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400013,
+    "id": 10840013,
     "name": "Space suit",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400013.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400013.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5148,10 +5170,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400014,
+    "id": 10840014,
     "name": "Mondrian T shirt",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400014.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400014.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5170,10 +5192,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400015,
+    "id": 10840015,
     "name": "Military windbreaker",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400015.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400015.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5192,10 +5214,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400016,
+    "id": 10840016,
     "name": "Colorful hoodie",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400016.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400016.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5214,10 +5236,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400017,
+    "id": 10840017,
     "name": "Boss bhoodie",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400017.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400017.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5236,10 +5258,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080400018,
+    "id": 10840018,
     "name": "Black suede coat",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080400018.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080400018.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5258,10 +5280,10 @@
     "power_level": 10475
   },
   {
-    "id": 1080500001,
+    "id": 10850001,
     "name": "Jacket stained with human blood",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5280,10 +5302,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500002,
+    "id": 10850002,
     "name": "Jacket stained with God's blood",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5302,10 +5324,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500003,
+    "id": 10850003,
     "name": "Snake leather jacket",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5324,10 +5346,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500004,
+    "id": 10850004,
     "name": "Samurai - Red",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5346,10 +5368,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500005,
+    "id": 10850005,
     "name": "Samurai - Green",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5368,10 +5390,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500006,
+    "id": 10850006,
     "name": "Human leather jacket",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5390,10 +5412,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500007,
+    "id": 10850007,
     "name": "Restraint suit",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500007.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500007.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5412,10 +5434,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500008,
+    "id": 10850008,
     "name": "Combat uniform - Meatus",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500008.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500008.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5434,10 +5456,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500009,
+    "id": 10850009,
     "name": "Combat uniform - Cor",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500009.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500009.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5456,10 +5478,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500010,
+    "id": 10850010,
     "name": "White sleeveless",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500010.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500010.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -5478,10 +5500,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500011,
+    "id": 10850011,
     "name": "Turtleneck knitwear jacket",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500011.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500011.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -5500,10 +5522,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500012,
+    "id": 10850012,
     "name": "Striped flower blouse",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500012.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500012.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -5522,10 +5544,10 @@
     "power_level": 9775
   },
   {
-    "id": 1080500013,
+    "id": 10850013,
     "name": "White dress shirt",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1080500013.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1080500013.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "clothes",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -5544,10 +5566,10 @@
     "power_level": 9775
   },
   {
-    "id": 1090100001,
+    "id": 10910001,
     "name": "Meta Clone Halmet",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090100001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090100001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "genesis",
     "asset_series": "Meta Clone",
@@ -5566,10 +5588,10 @@
     "power_level": 11397
   },
   {
-    "id": 1090200001,
+    "id": 10920001,
     "name": "CxNxD X J.Boots Tribal Hat",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "legend",
     "asset_series": "J.Boots",
@@ -5588,10 +5610,10 @@
     "power_level": 9160
   },
   {
-    "id": 1090200002,
+    "id": 10920002,
     "name": "The dirty ring",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -5610,10 +5632,10 @@
     "power_level": 8984
   },
   {
-    "id": 1090200003,
+    "id": 10920003,
     "name": "Ignorant ring",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -5632,10 +5654,10 @@
     "power_level": 10199
   },
   {
-    "id": 1090200004,
+    "id": 10920004,
     "name": "Crown",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090200004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090200004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -5654,10 +5676,10 @@
     "power_level": 10104
   },
   {
-    "id": 1090300001,
+    "id": 10930001,
     "name": "Halloween 2021 edition Jack-o'-lantern mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "unique",
     "asset_series": "Halloween 2021",
@@ -5676,10 +5698,10 @@
     "power_level": 6268
   },
   {
-    "id": 1090300002,
+    "id": 10930002,
     "name": "Fedora - digital",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -5698,10 +5720,10 @@
     "power_level": 6599
   },
   {
-    "id": 1090300003,
+    "id": 10930003,
     "name": "Slime",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -5720,10 +5742,10 @@
     "power_level": 6484
   },
   {
-    "id": 1090300004,
+    "id": 10930004,
     "name": "Brimmed hat",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090300004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090300004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -5742,10 +5764,10 @@
     "power_level": 7247
   },
   {
-    "id": 1090300005,
+    "id": 10930005,
     "name": "Sun cap",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090300005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090300005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -5764,10 +5786,10 @@
     "power_level": 7448
   },
   {
-    "id": 1090300006,
+    "id": 10930006,
     "name": "Red beanie",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090300006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090300006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -5786,10 +5808,10 @@
     "power_level": 6759
   },
   {
-    "id": 1090400001,
+    "id": 10940001,
     "name": "NFT Busan 2021 Hat",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "rare",
     "asset_series": "NFT Busan 2021",
@@ -5808,10 +5830,10 @@
     "power_level": 3940
   },
   {
-    "id": 1090400002,
+    "id": 10940002,
     "name": "Darkness",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -5830,10 +5852,10 @@
     "power_level": 3885
   },
   {
-    "id": 1090400003,
+    "id": 10940003,
     "name": "Darkness - punk",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -5852,10 +5874,10 @@
     "power_level": 4277
   },
   {
-    "id": 1090400004,
+    "id": 10940004,
     "name": "Yellow cap",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5874,10 +5896,10 @@
     "power_level": 4119
   },
   {
-    "id": 1090400005,
+    "id": 10940005,
     "name": "Cloud head",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090400005.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090400005.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5896,10 +5918,10 @@
     "power_level": 4350
   },
   {
-    "id": 1090400006,
+    "id": 10940006,
     "name": "Blue ball cap",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090400006.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090400006.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -5918,10 +5940,10 @@
     "power_level": 3720
   },
   {
-    "id": 1090500001,
+    "id": 10950001,
     "name": "Modified - digital",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5940,10 +5962,10 @@
     "power_level": 1550
   },
   {
-    "id": 1090500002,
+    "id": 10950002,
     "name": "Modified - paint",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -5962,10 +5984,10 @@
     "power_level": 1825
   },
   {
-    "id": 1090500003,
+    "id": 10950003,
     "name": "Farmer's hat",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -5984,10 +6006,10 @@
     "power_level": 1550
   },
   {
-    "id": 1090500004,
+    "id": 10950004,
     "name": "Black beanie",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1090500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1090500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "hat",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -6006,10 +6028,10 @@
     "power_level": 1640
   },
   {
-    "id": 1100200001,
+    "id": 11020001,
     "name": "CxNxD X J.Boots Tribal Ear Cuff",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "legend",
     "asset_series": "J.Boots",
@@ -6028,10 +6050,10 @@
     "power_level": 9452
   },
   {
-    "id": 1100200002,
+    "id": 11020002,
     "name": "Fake shackles",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -6050,10 +6072,10 @@
     "power_level": 10426
   },
   {
-    "id": 1100200003,
+    "id": 11020003,
     "name": "Symbolizing the queen",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -6072,10 +6094,10 @@
     "power_level": 9265
   },
   {
-    "id": 1100300001,
+    "id": 11030001,
     "name": "Ria's earing",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -6094,10 +6116,10 @@
     "power_level": 6275
   },
   {
-    "id": 1100300002,
+    "id": 11030002,
     "name": "Necklace with Nectar",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -6116,10 +6138,10 @@
     "power_level": 6675
   },
   {
-    "id": 1100300003,
+    "id": 11030003,
     "name": "Headset",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -6138,10 +6160,10 @@
     "power_level": 7234
   },
   {
-    "id": 1100300004,
+    "id": 11030004,
     "name": "Thorn necklace",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100300004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100300004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -6160,10 +6182,10 @@
     "power_level": 6446
   },
   {
-    "id": 1100400001,
+    "id": 11040001,
     "name": "Watching the world",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -6182,10 +6204,10 @@
     "power_level": 4125
   },
   {
-    "id": 1100400002,
+    "id": 11040002,
     "name": "Watching the world - liquid",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -6204,10 +6226,10 @@
     "power_level": 3955
   },
   {
-    "id": 1100400003,
+    "id": 11040003,
     "name": "God glasses",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -6226,10 +6248,10 @@
     "power_level": 4748
   },
   {
-    "id": 1100400004,
+    "id": 11040004,
     "name": "Eye patch",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -6248,10 +6270,10 @@
     "power_level": 4055
   },
   {
-    "id": 1100500001,
+    "id": 11050001,
     "name": "Resistance - 002",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -6270,10 +6292,10 @@
     "power_level": 1939
   },
   {
-    "id": 1100500002,
+    "id": 11050002,
     "name": "Discriminator",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -6292,10 +6314,10 @@
     "power_level": 1941
   },
   {
-    "id": 1100500003,
+    "id": 11050003,
     "name": "Gold earring",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -6314,10 +6336,10 @@
     "power_level": 1775
   },
   {
-    "id": 1100500004,
+    "id": 11050004,
     "name": "Rope",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1100500004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1100500004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "accessory",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -6336,10 +6358,10 @@
     "power_level": 1550
   },
   {
-    "id": 1110200001,
+    "id": 11120001,
     "name": "CxNxD X J.Boots Tribal Mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "legend",
     "asset_series": "J.Boots",
@@ -6358,10 +6380,10 @@
     "power_level": 10055
   },
   {
-    "id": 1110200002,
+    "id": 11120002,
     "name": "Face shield - Blood",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110200002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110200002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "legend",
     "asset_series": "Punk",
@@ -6380,10 +6402,10 @@
     "power_level": 10144
   },
   {
-    "id": 1110200003,
+    "id": 11120003,
     "name": "Off the shelf mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110200003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110200003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "legend",
     "asset_series": "Origin",
@@ -6402,10 +6424,10 @@
     "power_level": 9886
   },
   {
-    "id": 1110300001,
+    "id": 11130001,
     "name": "Face shield - Cor",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110300001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110300001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -6424,10 +6446,10 @@
     "power_level": 6736
   },
   {
-    "id": 1110300002,
+    "id": 11130002,
     "name": "Face shield - carpi",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110300002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110300002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "unique",
     "asset_series": "Punk",
@@ -6446,10 +6468,10 @@
     "power_level": 6252
   },
   {
-    "id": 1110300003,
+    "id": 11130003,
     "name": "Octopus mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110300003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110300003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -6468,10 +6490,10 @@
     "power_level": 7540
   },
   {
-    "id": 1110300004,
+    "id": 11130004,
     "name": "Marine resident's mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110300004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110300004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "unique",
     "asset_series": "Origin",
@@ -6490,10 +6512,10 @@
     "power_level": 7238
   },
   {
-    "id": 1110400001,
+    "id": 11140001,
     "name": "Horns - Red",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110400001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110400001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -6512,10 +6534,10 @@
     "power_level": 3871
   },
   {
-    "id": 1110400002,
+    "id": 11140002,
     "name": "Horns - green",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110400002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110400002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "rare",
     "asset_series": "Punk",
@@ -6534,10 +6556,10 @@
     "power_level": 3735
   },
   {
-    "id": 1110400003,
+    "id": 11140003,
     "name": "Gas mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110400003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110400003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -6556,10 +6578,10 @@
     "power_level": 5077
   },
   {
-    "id": 1110400004,
+    "id": 11140004,
     "name": "Fake mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110400004.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110400004.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "rare",
     "asset_series": "Origin",
@@ -6578,10 +6600,10 @@
     "power_level": 3540
   },
   {
-    "id": 1110500001,
+    "id": 11150001,
     "name": "Gas mask - Fiss",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110500001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110500001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -6600,10 +6622,10 @@
     "power_level": 2106
   },
   {
-    "id": 1110500002,
+    "id": 11150002,
     "name": "Gas mask - Dorsal",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110500002.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110500002.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "normal",
     "asset_series": "Punk",
@@ -6622,10 +6644,10 @@
     "power_level": 2075
   },
   {
-    "id": 1110500003,
+    "id": 11150003,
     "name": "Skull mask",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1110500003.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1110500003.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "mask",
     "asset_grade": "normal",
     "asset_series": "Origin",
@@ -6644,10 +6666,10 @@
     "power_level": 1550
   },
   {
-    "id": 1120200001,
+    "id": 11220001,
     "name": "CxNxD X TENMEN ETH",
-    "image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/main-image/1120200001.png",
-    "base_image": "https://storage.googleapis.com/clonecraft/nft-images/cnd-asset/base-image/1120200001.png",
+    "image": "main_image",
+    "base_image": "base_image",
     "asset_type": "effect",
     "asset_grade": "legend",
     "asset_series": "Tenmen",
