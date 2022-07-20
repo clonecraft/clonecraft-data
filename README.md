@@ -7,11 +7,11 @@
 ```json
 // 데이터 구조
 {
-    "id": 101010000100, //nft의 id, 총 12자리, 앞 세자리는 에셋타입, 다음 두자리는 에셋등급, 다음 다섯자리는 등급별 순번, 마지막 두자리는 강화횟수로 구분됨 ex) 101(타입)01(등급-제네시스)00001(등급별 생성 순번)00(강화횟수)
+    "id": 101010000100, //nft의 id, 총 10자리, 앞 세자리는 에셋타입, 다음 한자리는 에셋등급, 다음 네자리는 등급별 순번, 마지막 두자리는 강화횟수로 구분됨 ex) 101(타입)1(등급-제네시스)0001(등급별 생성 순번)00(강화횟수)
     "name": "CxNxD Toon #1", // nft의 이름, 강화될 경우 이름 뒤에 + 강화횟수가 붙음
     "image": "https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/main-image/1010100001.png", // nft의 보여지는 이미지
     "base_image": "https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/base-image/1010100001.png", // 클론 v3 이미지 조합에 사용될 이미지
-    "asset_type": "background", //에셋 타입, 총 12개로 구분됨
+    "asset_type": "background", //에셋 타입, 총 10개로 구분됨
     "asset_grade": "genesis", //에셋 등급, 총 5개로 구분됨
     "asset_series": "Art", //에셋 시리즈, nft기획시 묶어서 기획된 nft나 비슷한 성향의 nft를 나타냄
     "upgrade_level": 0, // 에셋의 강화 횟수
