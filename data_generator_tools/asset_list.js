@@ -19,36 +19,8 @@ function generator() {
       const assetStatueCalcValue = upgradeLevel + 1
       const id = parseInt(baseList[i].id.toString() + j.toString().padStart(2, '0'))
       const name = j === 0 ? baseList[i].name : `${baseList[i].name} + ${j}`
-      let price
-      let buyable = false
-      switch (baseList[i].asset_grade) {
-        case 'normal':
-          price = 2
-          break
-        case 'rare':
-          price = 4
-          break
-        case 'unique':
-          price = 8
-          break
-        case 'legend':
-          price = 16
-          break
-        case 'genesis':
-          price = 999999999
-          break
-        default:
-          price = 0
-          break
-      }
-      if (
-        upgradeLevel === 0 &&
-        (baseList[i].asset_series === 'Punk' || baseList[i].asset_series === 'Origin')
-      ) {
-        buyable = true
-      } else {
-        buyable = false
-      }
+      const price = pricing(baseList[i].asset_grade)
+      const buyable = isBuyable(upgradeLevel, baseList[i].asset_series)
       const assetData = {
         id,
         name,
@@ -81,6 +53,33 @@ function generator() {
 
 function assetStatusCalculator(originalStatue, mulValue) {
   return Math.floor((originalStatue / ASSET_STATUE_DIVIDER) * mulValue)
+}
+
+// 가격을 결정해주는 함수
+function pricing(grade) {
+  switch (grade) {
+    case 'normal':
+      return 2
+    case 'rare':
+      return 4
+    case 'unique':
+      return 8
+    case 'legend':
+      return 16
+    case 'genesis':
+      return 999999999
+    default:
+      return 0
+  }
+}
+
+// 구매 가능 여부를 결정해주는 함수
+function isBuyable(upgradeLevel, assetSeries) {
+  if (upgradeLevel === 0 && (assetSeries === 'Punk' || assetSeries === 'Origin')) {
+    return true
+  } else {
+    return false
+  }
 }
 
 function genAssetJSONData() {
