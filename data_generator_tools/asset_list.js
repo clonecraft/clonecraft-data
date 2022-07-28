@@ -20,6 +20,7 @@ function generator() {
       const id = parseInt(baseList[i].id.toString() + j.toString().padStart(2, '0'))
       const name = j === 0 ? baseList[i].name : `${baseList[i].name} + ${j}`
       let price
+      let buyable = false
       switch (baseList[i].asset_grade) {
         case 'normal':
           price = 2
@@ -34,11 +35,19 @@ function generator() {
           price = 16
           break
         case 'genesis':
-          price = 99
+          price = 999999999
           break
         default:
           price = 0
           break
+      }
+      if (
+        upgradeLevel === 0 &&
+        (baseList[i].asset_series === 'Punk' || baseList[i].asset_series === 'Origin')
+      ) {
+        buyable = true
+      } else {
+        buyable = false
       }
       const assetData = {
         id,
@@ -49,6 +58,7 @@ function generator() {
         asset_grade: baseList[i].asset_grade,
         asset_series: baseList[i].asset_series,
         price: price,
+        buyable: buyable,
         upgrade_level: upgradeLevel,
         power_level: assetStatusCalculator(baseList[i].power_level, assetStatueCalcValue),
         attack: assetStatusCalculator(baseList[i].attack, assetStatueCalcValue),
