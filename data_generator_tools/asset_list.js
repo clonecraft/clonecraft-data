@@ -19,6 +19,27 @@ function generator() {
       const assetStatueCalcValue = upgradeLevel + 1
       const id = parseInt(baseList[i].id.toString() + j.toString().padStart(2, '0'))
       const name = j === 0 ? baseList[i].name : `${baseList[i].name} + ${j}`
+      let price
+      switch (baseList[i].asset_grade) {
+        case 'normal':
+          price = 2
+          break
+        case 'rare':
+          price = 4
+          break
+        case 'unique':
+          price = 8
+          break
+        case 'legend':
+          price = 16
+          break
+        case 'genesis':
+          price = 99
+          break
+        default:
+          price = 0
+          break
+      }
       const assetData = {
         id,
         name,
@@ -27,6 +48,7 @@ function generator() {
         asset_type: baseList[i].asset_type,
         asset_grade: baseList[i].asset_grade,
         asset_series: baseList[i].asset_series,
+        price: price,
         upgrade_level: upgradeLevel,
         power_level: assetStatusCalculator(baseList[i].power_level, assetStatueCalcValue),
         attack: assetStatusCalculator(baseList[i].attack, assetStatueCalcValue),
@@ -59,6 +81,9 @@ function genAssetJSONData() {
 
   const fileDate = `${year}-${month >= 10 ? month : '0' + month}-${date >= 10 ? date : '0' + date}`
 
-  fs.writeFileSync(`./data/asset/ex/asset_list_${fileDate}.json`, JSON.stringify(assetList, null, 2))
+  fs.writeFileSync(
+    `./data/asset/ex/asset_list_${fileDate}.json`,
+    JSON.stringify(assetList, null, 2)
+  )
   fs.writeFileSync(`./data/asset/asset_list.json`, JSON.stringify(assetList, null, 2))
 }
