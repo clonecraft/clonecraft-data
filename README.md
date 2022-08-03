@@ -18,6 +18,7 @@
     "power_level": 1090, // 에셋 스테이터스의 종합 수치
     "attack": 90,
     "defense": 90,
+    "hp": 90,
     "luck": 90,
     "speed": 5,
     "evade": 8,
