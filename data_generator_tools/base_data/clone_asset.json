@@ -9,6 +9,7 @@
     "asset_series": "Art",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -19,7 +20,7 @@
     "aqua": 999,
     "aer": 999,
     "terra": 999,
-    "power_level": 11996
+    "power_level": 12996
   },
   {
     "id": 10120001,
@@ -31,6 +32,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -41,7 +43,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11000
+    "power_level": 12000
   },
   {
     "id": 10120002,
@@ -53,6 +55,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -63,7 +66,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11000
+    "power_level": 12000
   },
   {
     "id": 10120003,
@@ -75,6 +78,7 @@
     "asset_series": "Toon",
     "attack": 800,
     "defense": 900,
+    "hp": 900,
     "luck": 800,
     "speed": 4,
     "evade": 6,
@@ -85,7 +89,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 1000,
-    "power_level": 9300
+    "power_level": 10200
   },
   {
     "id": 10120004,
@@ -97,6 +101,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -107,7 +112,7 @@
     "aqua": 900,
     "aer": 900,
     "terra": 900,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10120005,
@@ -119,6 +124,7 @@
     "asset_series": "Toon",
     "attack": 777,
     "defense": 777,
+    "hp": 777,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -129,7 +135,7 @@
     "aqua": 700,
     "aer": 700,
     "terra": 1000,
-    "power_level": 9654
+    "power_level": 10431
   },
   {
     "id": 10120006,
@@ -141,6 +147,7 @@
     "asset_series": "Toon",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -163,6 +170,7 @@
     "asset_series": "Toon",
     "attack": 500,
     "defense": 500,
+    "hp": 500,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -173,7 +181,7 @@
     "aqua": 1000,
     "aer": 100,
     "terra": 1000,
-    "power_level": 8850
+    "power_level": 9350
   },
   {
     "id": 10120008,
@@ -185,6 +193,7 @@
     "asset_series": "Toon",
     "attack": 888,
     "defense": 888,
+    "hp": 888,
     "luck": 1000,
     "speed": 4,
     "evade": 7,
@@ -195,7 +204,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10326
+    "power_level": 11214
   },
   {
     "id": 10120009,
@@ -207,6 +216,7 @@
     "asset_series": "Toon",
     "attack": 999,
     "defense": 999,
+    "hp": 999,
     "luck": 1000,
     "speed": 4,
     "evade": 7,
@@ -217,7 +227,7 @@
     "aqua": 300,
     "aer": 300,
     "terra": 300,
-    "power_level": 8746
+    "power_level": 9745
   },
   {
     "id": 10120010,
@@ -229,6 +239,7 @@
     "asset_series": "Toon",
     "attack": 455,
     "defense": 553,
+    "hp": 553,
     "luck": 100,
     "speed": 4,
     "evade": 7,
@@ -239,7 +250,7 @@
     "aqua": 888,
     "aer": 888,
     "terra": 888,
-    "power_level": 8986
+    "power_level": 9539
   },
   {
     "id": 10120011,
@@ -251,6 +262,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 0,
     "speed": 5,
     "evade": 7,
@@ -261,7 +273,7 @@
     "aqua": 777,
     "aer": 777,
     "terra": 777,
-    "power_level": 9537
+    "power_level": 10537
   },
   {
     "id": 10120012,
@@ -273,6 +285,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 900,
+    "hp": 900,
     "luck": 100,
     "speed": 5,
     "evade": 8,
@@ -283,7 +296,7 @@
     "aqua": 788,
     "aer": 877,
     "terra": 788,
-    "power_level": 10330
+    "power_level": 11230
   },
   {
     "id": 10120013,
@@ -295,6 +308,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 900,
+    "hp": 900,
     "luck": 900,
     "speed": 5,
     "evade": 8,
@@ -305,7 +319,7 @@
     "aqua": 999,
     "aer": 999,
     "terra": 999,
-    "power_level": 10796
+    "power_level": 11696
   },
   {
     "id": 10120014,
@@ -317,6 +331,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 8,
@@ -327,7 +342,7 @@
     "aqua": 900,
     "aer": 900,
     "terra": 900,
-    "power_level": 10400
+    "power_level": 11400
   },
   {
     "id": 10120015,
@@ -339,6 +354,7 @@
     "asset_series": "Toon",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -361,6 +377,7 @@
     "asset_series": "Toon",
     "attack": 600,
     "defense": 700,
+    "hp": 700,
     "luck": 800,
     "speed": 4,
     "evade": 7,
@@ -371,7 +388,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 8650
+    "power_level": 9350
   },
   {
     "id": 10120017,
@@ -383,6 +400,7 @@
     "asset_series": "Toon",
     "attack": 900,
     "defense": 200,
+    "hp": 200,
     "luck": 700,
     "speed": 4,
     "evade": 7,
@@ -393,7 +411,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 9575
+    "power_level": 9775
   },
   {
     "id": 10120018,
@@ -405,6 +423,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 999,
+    "hp": 999,
     "luck": 999,
     "speed": 5,
     "evade": 7,
@@ -415,7 +434,7 @@
     "aqua": 555,
     "aer": 555,
     "terra": 555,
-    "power_level": 9203
+    "power_level": 10202
   },
   {
     "id": 10120019,
@@ -427,6 +446,7 @@
     "asset_series": "Toon",
     "attack": 722,
     "defense": 722,
+    "hp": 722,
     "luck": 600,
     "speed": 5,
     "evade": 7,
@@ -437,7 +457,7 @@
     "aqua": 888,
     "aer": 797,
     "terra": 888,
-    "power_level": 8863
+    "power_level": 9585
   },
   {
     "id": 10120020,
@@ -449,6 +469,7 @@
     "asset_series": "Toon",
     "attack": 900,
     "defense": 300,
+    "hp": 300,
     "luck": 800,
     "speed": 4,
     "evade": 7,
@@ -459,7 +480,7 @@
     "aqua": 800,
     "aer": 400,
     "terra": 900,
-    "power_level": 8604
+    "power_level": 8904
   },
   {
     "id": 10120021,
@@ -471,6 +492,7 @@
     "asset_series": "Toon",
     "attack": 950,
     "defense": 550,
+    "hp": 550,
     "luck": 333,
     "speed": 5,
     "evade": 8,
@@ -481,7 +503,7 @@
     "aqua": 666,
     "aer": 800,
     "terra": 666,
-    "power_level": 9084
+    "power_level": 9634
   },
   {
     "id": 10120022,
@@ -493,6 +515,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 900,
+    "hp": 900,
     "luck": 777,
     "speed": 5,
     "evade": 8,
@@ -503,7 +526,7 @@
     "aqua": 950,
     "aer": 950,
     "terra": 950,
-    "power_level": 10576
+    "power_level": 11476
   },
   {
     "id": 10120023,
@@ -515,6 +538,7 @@
     "asset_series": "Toon",
     "attack": 999,
     "defense": 0,
+    "hp": 0,
     "luck": 999,
     "speed": 5,
     "evade": 7,
@@ -537,6 +561,7 @@
     "asset_series": "Toon",
     "attack": 500,
     "defense": 900,
+    "hp": 900,
     "luck": 900,
     "speed": 4,
     "evade": 7,
@@ -547,7 +572,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 9775
+    "power_level": 10675
   },
   {
     "id": 10120025,
@@ -559,6 +584,7 @@
     "asset_series": "Toon",
     "attack": 700,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -569,7 +595,7 @@
     "aqua": 727,
     "aer": 727,
     "terra": 727,
-    "power_level": 10183
+    "power_level": 11183
   },
   {
     "id": 10120026,
@@ -581,6 +607,7 @@
     "asset_series": "Toon",
     "attack": 900,
     "defense": 800,
+    "hp": 800,
     "luck": 900,
     "speed": 5,
     "evade": 8,
@@ -591,7 +618,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 10400
+    "power_level": 11200
   },
   {
     "id": 10120027,
@@ -603,6 +630,7 @@
     "asset_series": "Toon",
     "attack": 800,
     "defense": 1000,
+    "hp": 1000,
     "luck": 999,
     "speed": 4,
     "evade": 8,
@@ -613,7 +641,7 @@
     "aqua": 600,
     "aer": 600,
     "terra": 600,
-    "power_level": 9959
+    "power_level": 10959
   },
   {
     "id": 10120028,
@@ -625,6 +653,7 @@
     "asset_series": "Toon",
     "attack": 600,
     "defense": 600,
+    "hp": 600,
     "luck": 600,
     "speed": 4,
     "evade": 7,
@@ -635,7 +664,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 8750
+    "power_level": 9350
   },
   {
     "id": 10120029,
@@ -647,6 +676,7 @@
     "asset_series": "Toon",
     "attack": 600,
     "defense": 500,
+    "hp": 500,
     "luck": 600,
     "speed": 5,
     "evade": 7,
@@ -657,7 +687,7 @@
     "aqua": 700,
     "aer": 800,
     "terra": 800,
-    "power_level": 8975
+    "power_level": 9475
   },
   {
     "id": 10120030,
@@ -669,6 +699,7 @@
     "asset_series": "Toon",
     "attack": 700,
     "defense": 700,
+    "hp": 700,
     "luck": 700,
     "speed": 5,
     "evade": 7,
@@ -679,7 +710,7 @@
     "aqua": 700,
     "aer": 700,
     "terra": 700,
-    "power_level": 9050
+    "power_level": 9750
   },
   {
     "id": 10120031,
@@ -691,6 +722,7 @@
     "asset_series": "Toon",
     "attack": 1000,
     "defense": 900,
+    "hp": 900,
     "luck": 900,
     "speed": 5,
     "evade": 8,
@@ -701,7 +733,7 @@
     "aqua": 990,
     "aer": 990,
     "terra": 990,
-    "power_level": 10750
+    "power_level": 11650
   },
   {
     "id": 10120032,
@@ -713,6 +745,7 @@
     "asset_series": "Toon",
     "attack": 666,
     "defense": 666,
+    "hp": 666,
     "luck": 666,
     "speed": 5,
     "evade": 8,
@@ -723,7 +756,7 @@
     "aqua": 888,
     "aer": 888,
     "terra": 888,
-    "power_level": 9313
+    "power_level": 9979
   },
   {
     "id": 10120033,
@@ -735,6 +768,7 @@
     "asset_series": "Toon",
     "attack": 900,
     "defense": 900,
+    "hp": 900,
     "luck": 990,
     "speed": 5,
     "evade": 8,
@@ -745,7 +779,7 @@
     "aqua": 777,
     "aer": 777,
     "terra": 777,
-    "power_level": 10674
+    "power_level": 11574
   },
   {
     "id": 10120034,
@@ -757,6 +791,7 @@
     "asset_series": "Toon",
     "attack": 800,
     "defense": 800,
+    "hp": 800,
     "luck": 800,
     "speed": 5,
     "evade": 7,
@@ -767,7 +802,7 @@
     "aqua": 700,
     "aer": 700,
     "terra": 700,
-    "power_level": 9350
+    "power_level": 10150
   },
   {
     "id": 10120035,
@@ -779,6 +814,7 @@
     "asset_series": "Toon",
     "attack": 888,
     "defense": 900,
+    "hp": 900,
     "luck": 700,
     "speed": 5,
     "evade": 7,
@@ -789,7 +825,7 @@
     "aqua": 400,
     "aer": 800,
     "terra": 500,
-    "power_level": 9433
+    "power_level": 10333
   },
   {
     "id": 10120036,
@@ -801,6 +837,7 @@
     "asset_series": "Toon",
     "attack": 666,
     "defense": 666,
+    "hp": 666,
     "luck": 777,
     "speed": 5,
     "evade": 7,
@@ -811,7 +848,7 @@
     "aqua": 600,
     "aer": 800,
     "terra": 890,
-    "power_level": 8849
+    "power_level": 9515
   },
   {
     "id": 10120037,
@@ -823,6 +860,7 @@
     "asset_series": "Tenmen",
     "attack": 700,
     "defense": 900,
+    "hp": 900,
     "luck": 910,
     "speed": 4,
     "evade": 7,
@@ -833,7 +871,7 @@
     "aqua": 777,
     "aer": 777,
     "terra": 777,
-    "power_level": 9760
+    "power_level": 10660
   },
   {
     "id": 10120038,
@@ -845,6 +883,7 @@
     "asset_series": "J.Boots",
     "attack": 800,
     "defense": 880,
+    "hp": 880,
     "luck": 777,
     "speed": 5,
     "evade": 7,
@@ -855,7 +894,7 @@
     "aqua": 888,
     "aer": 888,
     "terra": 888,
-    "power_level": 9758
+    "power_level": 10638
   },
   {
     "id": 10120039,
@@ -867,6 +906,7 @@
     "asset_series": "Punk",
     "attack": 910,
     "defense": 620,
+    "hp": 620,
     "luck": 444,
     "speed": 5,
     "evade": 8,
@@ -877,7 +917,7 @@
     "aqua": 700,
     "aer": 888,
     "terra": 990,
-    "power_level": 9337
+    "power_level": 9957
   },
   {
     "id": 10120040,
@@ -889,6 +929,7 @@
     "asset_series": "Punk",
     "attack": 420,
     "defense": 741,
+    "hp": 741,
     "luck": 767,
     "speed": 4,
     "evade": 7,
@@ -899,7 +940,7 @@
     "aqua": 777,
     "aer": 777,
     "terra": 888,
-    "power_level": 9248
+    "power_level": 9989
   },
   {
     "id": 10120041,
@@ -911,6 +952,7 @@
     "asset_series": "Origin",
     "attack": 880,
     "defense": 740,
+    "hp": 740,
     "luck": 790,
     "speed": 5,
     "evade": 8,
@@ -921,7 +963,7 @@
     "aqua": 777,
     "aer": 777,
     "terra": 777,
-    "power_level": 9947
+    "power_level": 10687
   },
   {
     "id": 10120042,
@@ -933,6 +975,7 @@
     "asset_series": "PaperChildren",
     "attack": 777,
     "defense": 777,
+    "hp": 777,
     "luck": 777,
     "speed": 5,
     "evade": 7,
@@ -943,7 +986,7 @@
     "aqua": 777,
     "aer": 777,
     "terra": 777,
-    "power_level": 9743
+    "power_level": 10520
   },
   {
     "id": 10130001,
@@ -955,6 +998,7 @@
     "asset_series": "Toon",
     "attack": 600,
     "defense": 300,
+    "hp": 300,
     "luck": 777,
     "speed": 4,
     "evade": 6,
@@ -965,7 +1009,7 @@
     "aqua": 500,
     "aer": 500,
     "terra": 500,
-    "power_level": 6518
+    "power_level": 6818
   },
   {
     "id": 10130002,
@@ -977,6 +1021,7 @@
     "asset_series": "Toon",
     "attack": 650,
     "defense": 300,
+    "hp": 300,
     "luck": 800,
     "speed": 4,
     "evade": 5,
@@ -987,7 +1032,7 @@
     "aqua": 200,
     "aer": 200,
     "terra": 950,
-    "power_level": 6100
+    "power_level": 6400
   },
   {
     "id": 10130003,
@@ -999,6 +1044,7 @@
     "asset_series": "Toon",
     "attack": 200,
     "defense": 100,
+    "hp": 100,
     "luck": 900,
     "speed": 4,
     "evade": 5,
@@ -1009,7 +1055,7 @@
     "aqua": 400,
     "aer": 800,
     "terra": 800,
-    "power_level": 6350
+    "power_level": 6450
   },
   {
     "id": 10130004,
@@ -1021,6 +1067,7 @@
     "asset_series": "Toon",
     "attack": 0,
     "defense": 840,
+    "hp": 840,
     "luck": 990,
     "speed": 4,
     "evade": 6,
@@ -1031,7 +1078,7 @@
     "aqua": 700,
     "aer": 700,
     "terra": 700,
-    "power_level": 7605
+    "power_level": 8445
   },
   {
     "id": 10130005,
@@ -1043,6 +1090,7 @@
     "asset_series": "Toon",
     "attack": 850,
     "defense": 850,
+    "hp": 850,
     "luck": 777,
     "speed": 4,
     "evade": 6,
@@ -1053,7 +1101,7 @@
     "aqua": 400,
     "aer": 400,
     "terra": 800,
-    "power_level": 7577
+    "power_level": 8427
   },
   {
     "id": 10130006,
@@ -1065,6 +1113,7 @@
     "asset_series": "Toon",
     "attack": 400,
     "defense": 800,
+    "hp": 800,
     "luck": 650,
     "speed": 4,
     "evade": 6,
@@ -1075,7 +1124,7 @@
     "aqua": 0,
     "aer": 900,
     "terra": 900,
-    "power_level": 6840
+    "power_level": 7640
   },
   {
     "id": 10130007,
@@ -1087,6 +1136,7 @@
     "asset_series": "Toon",
     "attack": 370,
     "defense": 610,
+    "hp": 610,
     "luck": 220,
     "speed": 3,
     "evade": 5,
@@ -1097,7 +1147,7 @@
     "aqua": 255,
     "aer": 364,
     "terra": 887,
-    "power_level": 5867
+    "power_level": 6477
   },
   {
     "id": 10130008,
@@ -1109,6 +1159,7 @@
     "asset_series": "Toon",
     "attack": 400,
     "defense": 600,
+    "hp": 600,
     "luck": 600,
     "speed": 3,
     "evade": 6,
@@ -1119,7 +1170,7 @@
     "aqua": 600,
     "aer": 620,
     "terra": 660,
-    "power_level": 6985
+    "power_level": 7585
   },
   {
     "id": 10130009,
@@ -1131,6 +1182,7 @@
     "asset_series": "Toon",
     "attack": 0,
     "defense": 500,
+    "hp": 500,
     "luck": 220,
     "speed": 3,
     "evade": 5,
@@ -1141,7 +1193,7 @@
     "aqua": 582,
     "aer": 665,
     "terra": 683,
-    "power_level": 5953
+    "power_level": 6453
   },
   {
     "id": 10130010,
@@ -1153,6 +1205,7 @@
     "asset_series": "Toon",
     "attack": 460,
     "defense": 550,
+    "hp": 550,
     "luck": 100,
     "speed": 4,
     "evade": 5,
@@ -1163,7 +1216,7 @@
     "aqua": 700,
     "aer": 200,
     "terra": 200,
-    "power_level": 6060
+    "power_level": 6610
   },
   {
     "id": 10130011,
@@ -1175,6 +1228,7 @@
     "asset_series": "Toon",
     "attack": 0,
     "defense": 890,
+    "hp": 890,
     "luck": 888,
     "speed": 3,
     "evade": 6,
@@ -1185,7 +1239,7 @@
     "aqua": 260,
     "aer": 570,
     "terra": 550,
-    "power_level": 6353
+    "power_level": 7243
   },
   {
     "id": 10130012,
@@ -1197,6 +1251,7 @@
     "asset_series": "Toon",
     "attack": 250,
     "defense": 600,
+    "hp": 600,
     "luck": 450,
     "speed": 4,
     "evade": 6,
@@ -1207,7 +1262,7 @@
     "aqua": 680,
     "aer": 676,
     "terra": 320,
-    "power_level": 6331
+    "power_level": 6931
   },
   {
     "id": 10130013,
@@ -1219,6 +1274,7 @@
     "asset_series": "Toon",
     "attack": 550,
     "defense": 370,
+    "hp": 370,
     "luck": 444,
     "speed": 4,
     "evade": 6,
@@ -1229,7 +1285,7 @@
     "aqua": 725,
     "aer": 691,
     "terra": 320,
-    "power_level": 6680
+    "power_level": 7050
   },
   {
     "id": 10130014,
@@ -1241,6 +1297,7 @@
     "asset_series": "Toon",
     "attack": 200,
     "defense": 200,
+    "hp": 200,
     "luck": 540,
     "speed": 3,
     "evade": 5,
@@ -1251,7 +1308,7 @@
     "aqua": 542,
     "aer": 686,
     "terra": 472,
-    "power_level": 6137
+    "power_level": 6337
   },
   {
     "id": 10130015,
@@ -1263,6 +1320,7 @@
     "asset_series": "Toon",
     "attack": 240,
     "defense": 800,
+    "hp": 800,
     "luck": 888,
     "speed": 4,
     "evade": 6,
@@ -1273,7 +1331,7 @@
     "aqua": 232,
     "aer": 333,
     "terra": 800,
-    "power_level": 7137
+    "power_level": 7937
   },
   {
     "id": 10130016,
@@ -1285,6 +1343,7 @@
     "asset_series": "Toon",
     "attack": 330,
     "defense": 890,
+    "hp": 890,
     "luck": 444,
     "speed": 4,
     "evade": 6,
@@ -1295,7 +1354,7 @@
     "aqua": 666,
     "aer": 666,
     "terra": 666,
-    "power_level": 7617
+    "power_level": 8507
   },
   {
     "id": 10130017,
@@ -1307,6 +1366,7 @@
     "asset_series": "Toon",
     "attack": 400,
     "defense": 400,
+    "hp": 400,
     "luck": 260,
     "speed": 4,
     "evade": 5,
@@ -1317,7 +1377,7 @@
     "aqua": 600,
     "aer": 300,
     "terra": 800,
-    "power_level": 6295
+    "power_level": 6695
   },
   {
     "id": 10130018,
@@ -1329,6 +1389,7 @@
     "asset_series": "Toon",
     "attack": 795,
     "defense": 680,
+    "hp": 680,
     "luck": 480,
     "speed": 4,
     "evade": 6,
@@ -1339,7 +1400,7 @@
     "aqua": 100,
     "aer": 680,
     "terra": 200,
-    "power_level": 6735
+    "power_level": 7415
   },
   {
     "id": 10130019,
@@ -1351,6 +1412,7 @@
     "asset_series": "Toon",
     "attack": 699,
     "defense": 666,
+    "hp": 666,
     "luck": 755,
     "speed": 3,
     "evade": 6,
@@ -1361,7 +1423,7 @@
     "aqua": 200,
     "aer": 200,
     "terra": 150,
-    "power_level": 6405
+    "power_level": 7071
   },
   {
     "id": 10130020,
@@ -1373,6 +1435,7 @@
     "asset_series": "Toon",
     "attack": 500,
     "defense": 500,
+    "hp": 500,
     "luck": 500,
     "speed": 3,
     "evade": 5,
@@ -1383,7 +1446,7 @@
     "aqua": 550,
     "aer": 550,
     "terra": 550,
-    "power_level": 6850
+    "power_level": 7350
   },
   {
     "id": 10130021,
@@ -1395,6 +1458,7 @@
     "asset_series": "Toon",
     "attack": 500,
     "defense": 500,
+    "hp": 500,
     "luck": 500,
     "speed": 3,
     "evade": 5,
@@ -1405,7 +1469,7 @@
     "aqua": 500,
     "aer": 500,
     "terra": 500,
-    "power_level": 6350
+    "power_level": 6850
   },
   {
     "id": 10130022,
@@ -1417,6 +1481,7 @@
     "asset_series": "Toon",
     "attack": 700,
     "defense": 300,
+    "hp": 300,
     "luck": 300,
     "speed": 4,
     "evade": 5,
@@ -1427,7 +1492,7 @@
     "aqua": 200,
     "aer": 710,
     "terra": 340,
-    "power_level": 6585
+    "power_level": 6885
   },
   {
     "id": 10130023,
@@ -1439,6 +1504,7 @@
     "asset_series": "Toon",
     "attack": 450,
     "defense": 450,
+    "hp": 450,
     "luck": 450,
     "speed": 4,
     "evade": 5,
@@ -1449,7 +1515,7 @@
     "aqua": 720,
     "aer": 590,
     "terra": 300,
-    "power_level": 6160
+    "power_level": 6610
   },
   {
     "id": 10130024,
@@ -1461,6 +1527,7 @@
     "asset_series": "Toon",
     "attack": 800,
     "defense": 0,
+    "hp": 0,
     "luck": 770,
     "speed": 4,
     "evade": 6,
@@ -1483,6 +1550,7 @@
     "asset_series": "Punk",
     "attack": 400,
     "defense": 400,
+    "hp": 400,
     "luck": 600,
     "speed": 4,
     "evade": 5,
@@ -1493,7 +1561,7 @@
     "aqua": 500,
     "aer": 500,
     "terra": 500,
-    "power_level": 6250
+    "power_level": 6650
   },
   {
     "id": 10130026,
@@ -1505,6 +1573,7 @@
     "asset_series": "Punk",
     "attack": 820,
     "defense": 300,
+    "hp": 300,
     "luck": 0,
     "speed": 3,
     "evade": 5,
@@ -1515,7 +1584,7 @@
     "aqua": 610,
     "aer": 580,
     "terra": 670,
-    "power_level": 6229
+    "power_level": 6529
   },
   {
     "id": 10130027,
@@ -1527,6 +1596,7 @@
     "asset_series": "Punk",
     "attack": 600,
     "defense": 550,
+    "hp": 550,
     "luck": 450,
     "speed": 4,
     "evade": 5,
@@ -1537,7 +1607,7 @@
     "aqua": 320,
     "aer": 470,
     "terra": 800,
-    "power_level": 6465
+    "power_level": 7015
   },
   {
     "id": 10130028,
@@ -1549,6 +1619,7 @@
     "asset_series": "Origin",
     "attack": 621,
     "defense": 666,
+    "hp": 666,
     "luck": 350,
     "speed": 4,
     "evade": 5,
@@ -1559,7 +1630,7 @@
     "aqua": 730,
     "aer": 220,
     "terra": 880,
-    "power_level": 7032
+    "power_level": 7698
   },
   {
     "id": 10130029,
@@ -1571,6 +1642,7 @@
     "asset_series": "Origin",
     "attack": 780,
     "defense": 550,
+    "hp": 550,
     "luck": 777,
     "speed": 4,
     "evade": 6,
@@ -1581,7 +1653,7 @@
     "aqua": 520,
     "aer": 540,
     "terra": 690,
-    "power_level": 8107
+    "power_level": 8657
   },
   {
     "id": 10140001,
@@ -1593,6 +1665,7 @@
     "asset_series": "Punk",
     "attack": 0,
     "defense": 220,
+    "hp": 220,
     "luck": 460,
     "speed": 3,
     "evade": 3,
@@ -1603,7 +1676,7 @@
     "aqua": 600,
     "aer": 420,
     "terra": 200,
-    "power_level": 3450
+    "power_level": 3670
   },
   {
     "id": 10140002,
@@ -1615,6 +1688,7 @@
     "asset_series": "Punk",
     "attack": 380,
     "defense": 388,
+    "hp": 388,
     "luck": 310,
     "speed": 3,
     "evade": 3,
@@ -1625,7 +1699,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 3613
+    "power_level": 4001
   },
   {
     "id": 10140003,
@@ -1637,6 +1711,7 @@
     "asset_series": "Punk",
     "attack": 0,
     "defense": 330,
+    "hp": 330,
     "luck": 400,
     "speed": 2,
     "evade": 4,
@@ -1647,7 +1722,7 @@
     "aqua": 0,
     "aer": 600,
     "terra": 720,
-    "power_level": 3450
+    "power_level": 3780
   },
   {
     "id": 10140004,
@@ -1659,6 +1734,7 @@
     "asset_series": "Origin",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 3,
     "evade": 3,
@@ -1681,6 +1757,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 450,
+    "hp": 450,
     "luck": 0,
     "speed": 3,
     "evade": 4,
@@ -1691,7 +1768,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 580,
-    "power_level": 3705
+    "power_level": 4155
   },
   {
     "id": 10150001,
@@ -1703,6 +1780,7 @@
     "asset_series": "Punk",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 330,
     "speed": 2,
     "evade": 2,
@@ -1725,6 +1803,7 @@
     "asset_series": "Punk",
     "attack": 300,
     "defense": 400,
+    "hp": 400,
     "luck": 400,
     "speed": 2,
     "evade": 1,
@@ -1735,7 +1814,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 1750
+    "power_level": 2150
   },
   {
     "id": 10150003,
@@ -1747,6 +1826,7 @@
     "asset_series": "Punk",
     "attack": 200,
     "defense": 200,
+    "hp": 200,
     "luck": 0,
     "speed": 2,
     "evade": 2,
@@ -1757,7 +1837,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 444,
-    "power_level": 2144
+    "power_level": 2344
   },
   {
     "id": 10150004,
@@ -1769,6 +1849,7 @@
     "asset_series": "Origin",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 2,
@@ -1791,6 +1872,7 @@
     "asset_series": "Origin",
     "attack": 300,
     "defense": 300,
+    "hp": 300,
     "luck": 300,
     "speed": 2,
     "evade": 1,
@@ -1801,7 +1883,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 1675
+    "power_level": 1975
   },
   {
     "id": 10150006,
@@ -1813,6 +1895,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 2,
@@ -1823,7 +1906,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1800
+    "power_level": 1900
   },
   {
     "id": 10150007,
@@ -1835,6 +1918,7 @@
     "asset_series": "Origin",
     "attack": 300,
     "defense": 300,
+    "hp": 300,
     "luck": 300,
     "speed": 2,
     "evade": 2,
@@ -1845,7 +1929,7 @@
     "aqua": 150,
     "aer": 150,
     "terra": 150,
-    "power_level": 2400
+    "power_level": 2700
   },
   {
     "id": 10150008,
@@ -1857,6 +1941,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 0,
+    "hp": 0,
     "luck": 100,
     "speed": 2,
     "evade": 2,
@@ -1879,6 +1964,7 @@
     "asset_series": "Origin",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 1,
@@ -1901,6 +1987,7 @@
     "asset_series": "Origin",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 2,
@@ -1923,6 +2010,7 @@
     "asset_series": "Origin",
     "attack": 800,
     "defense": 800,
+    "hp": 800,
     "luck": 800,
     "speed": 5,
     "evade": 7,
@@ -1933,7 +2021,7 @@
     "aqua": 670,
     "aer": 670,
     "terra": 670,
-    "power_level": 9555
+    "power_level": 10355
   },
   {
     "id": 10230001,
@@ -1945,6 +2033,7 @@
     "asset_series": "Origin",
     "attack": 760,
     "defense": 880,
+    "hp": 880,
     "luck": 910,
     "speed": 4,
     "evade": 5,
@@ -1955,7 +2044,7 @@
     "aqua": 660,
     "aer": 450,
     "terra": 100,
-    "power_level": 7165
+    "power_level": 8045
   },
   {
     "id": 10240001,
@@ -1967,6 +2056,7 @@
     "asset_series": "Origin",
     "attack": 720,
     "defense": 689,
+    "hp": 689,
     "luck": 399,
     "speed": 3,
     "evade": 4,
@@ -1977,7 +2067,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 421,
-    "power_level": 4729
+    "power_level": 5418
   },
   {
     "id": 10240002,
@@ -1989,6 +2079,7 @@
     "asset_series": "Origin",
     "attack": 250,
     "defense": 330,
+    "hp": 330,
     "luck": 790,
     "speed": 3,
     "evade": 4,
@@ -1999,7 +2090,7 @@
     "aqua": 448,
     "aer": 228,
     "terra": 551,
-    "power_level": 4513
+    "power_level": 4843
   },
   {
     "id": 10250001,
@@ -2011,6 +2102,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 0,
     "speed": 2,
     "evade": 2,
@@ -2021,7 +2113,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 900,
-    "power_level": 1975
+    "power_level": 2075
   },
   {
     "id": 10250002,
@@ -2033,6 +2125,7 @@
     "asset_series": "Origin",
     "attack": 0,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 1,
@@ -2055,6 +2148,7 @@
     "asset_series": "Punk",
     "attack": 950,
     "defense": 370,
+    "hp": 370,
     "luck": 890,
     "speed": 5,
     "evade": 7,
@@ -2065,7 +2159,7 @@
     "aqua": 870,
     "aer": 870,
     "terra": 870,
-    "power_level": 10341
+    "power_level": 10711
   },
   {
     "id": 10320002,
@@ -2077,6 +2171,7 @@
     "asset_series": "Punk",
     "attack": 850,
     "defense": 680,
+    "hp": 680,
     "luck": 700,
     "speed": 5,
     "evade": 7,
@@ -2087,7 +2182,7 @@
     "aqua": 400,
     "aer": 880,
     "terra": 690,
-    "power_level": 9245
+    "power_level": 9925
   },
   {
     "id": 10320003,
@@ -2099,6 +2194,7 @@
     "asset_series": "Punk",
     "attack": 800,
     "defense": 900,
+    "hp": 900,
     "luck": 900,
     "speed": 5,
     "evade": 8,
@@ -2109,7 +2205,7 @@
     "aqua": 950,
     "aer": 700,
     "terra": 700,
-    "power_level": 9553
+    "power_level": 10453
   },
   {
     "id": 10330001,
@@ -2121,6 +2217,7 @@
     "asset_series": "Punk",
     "attack": 777,
     "defense": 555,
+    "hp": 555,
     "luck": 777,
     "speed": 4,
     "evade": 6,
@@ -2131,7 +2228,7 @@
     "aqua": 350,
     "aer": 420,
     "terra": 700,
-    "power_level": 7754
+    "power_level": 8309
   },
   {
     "id": 10330002,
@@ -2143,6 +2240,7 @@
     "asset_series": "Punk",
     "attack": 555,
     "defense": 777,
+    "hp": 777,
     "luck": 777,
     "speed": 4,
     "evade": 5,
@@ -2153,7 +2251,7 @@
     "aqua": 555,
     "aer": 555,
     "terra": 555,
-    "power_level": 7484
+    "power_level": 8261
   },
   {
     "id": 10330003,
@@ -2165,6 +2263,7 @@
     "asset_series": "Punk",
     "attack": 900,
     "defense": 0,
+    "hp": 0,
     "luck": 333,
     "speed": 4,
     "evade": 6,
@@ -2187,6 +2286,7 @@
     "asset_series": "Punk",
     "attack": 721,
     "defense": 390,
+    "hp": 390,
     "luck": 200,
     "speed": 3,
     "evade": 3,
@@ -2197,7 +2297,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 4273
+    "power_level": 4663
   },
   {
     "id": 10340002,
@@ -2209,6 +2309,7 @@
     "asset_series": "Punk",
     "attack": 300,
     "defense": 800,
+    "hp": 800,
     "luck": 600,
     "speed": 3,
     "evade": 4,
@@ -2219,7 +2320,7 @@
     "aqua": 800,
     "aer": 0,
     "terra": 0,
-    "power_level": 4075
+    "power_level": 4875
   },
   {
     "id": 10340003,
@@ -2231,6 +2332,7 @@
     "asset_series": "Punk",
     "attack": 600,
     "defense": 600,
+    "hp": 600,
     "luck": 600,
     "speed": 3,
     "evade": 4,
@@ -2241,7 +2343,7 @@
     "aqua": 300,
     "aer": 300,
     "terra": 300,
-    "power_level": 5200
+    "power_level": 5800
   },
   {
     "id": 10340004,
@@ -2253,6 +2355,7 @@
     "asset_series": "Punk",
     "attack": 800,
     "defense": 320,
+    "hp": 320,
     "luck": 0,
     "speed": 3,
     "evade": 3,
@@ -2263,7 +2366,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 460,
-    "power_level": 4487
+    "power_level": 4807
   },
   {
     "id": 10340005,
@@ -2275,6 +2378,7 @@
     "asset_series": "Punk",
     "attack": 750,
     "defense": 400,
+    "hp": 400,
     "luck": 0,
     "speed": 3,
     "evade": 3,
@@ -2285,7 +2389,7 @@
     "aqua": 500,
     "aer": 790,
     "terra": 400,
-    "power_level": 4315
+    "power_level": 4715
   },
   {
     "id": 10350001,
@@ -2297,6 +2401,7 @@
     "asset_series": "Punk",
     "attack": 178,
     "defense": 200,
+    "hp": 200,
     "luck": 110,
     "speed": 2,
     "evade": 1,
@@ -2307,7 +2412,7 @@
     "aqua": 0,
     "aer": 200,
     "terra": 200,
-    "power_level": 1713
+    "power_level": 1913
   },
   {
     "id": 10350002,
@@ -2319,6 +2424,7 @@
     "asset_series": "Punk",
     "attack": 78,
     "defense": 350,
+    "hp": 350,
     "luck": 110,
     "speed": 2,
     "evade": 2,
@@ -2329,7 +2435,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 300,
-    "power_level": 1613
+    "power_level": 1963
   },
   {
     "id": 10350003,
@@ -2341,6 +2447,7 @@
     "asset_series": "Punk",
     "attack": 300,
     "defense": 0,
+    "hp": 0,
     "luck": 300,
     "speed": 2,
     "evade": 2,
@@ -2363,6 +2470,7 @@
     "asset_series": "Punk",
     "attack": 270,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 2,
@@ -2385,6 +2493,7 @@
     "asset_series": "Punk",
     "attack": 500,
     "defense": 100,
+    "hp": 100,
     "luck": 0,
     "speed": 2,
     "evade": 1,
@@ -2395,7 +2504,7 @@
     "aqua": 440,
     "aer": 0,
     "terra": 0,
-    "power_level": 1815
+    "power_level": 1915
   },
   {
     "id": 10350006,
@@ -2407,6 +2516,7 @@
     "asset_series": "Punk",
     "attack": 500,
     "defense": 100,
+    "hp": 100,
     "luck": 300,
     "speed": 2,
     "evade": 2,
@@ -2417,7 +2527,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 2210
+    "power_level": 2310
   },
   {
     "id": 10420001,
@@ -2429,6 +2539,7 @@
     "asset_series": "J.Boots",
     "attack": 890,
     "defense": 980,
+    "hp": 980,
     "luck": 999,
     "speed": 5,
     "evade": 8,
@@ -2439,7 +2550,7 @@
     "aqua": 888,
     "aer": 888,
     "terra": 999,
-    "power_level": 10531
+    "power_level": 11511
   },
   {
     "id": 10420002,
@@ -2451,6 +2562,7 @@
     "asset_series": "Punk",
     "attack": 960,
     "defense": 990,
+    "hp": 990,
     "luck": 999,
     "speed": 5,
     "evade": 8,
@@ -2461,7 +2573,7 @@
     "aqua": 900,
     "aer": 900,
     "terra": 900,
-    "power_level": 10539
+    "power_level": 11529
   },
   {
     "id": 10420003,
@@ -2473,6 +2585,7 @@
     "asset_series": "Origin",
     "attack": 780,
     "defense": 920,
+    "hp": 920,
     "luck": 780,
     "speed": 5,
     "evade": 8,
@@ -2483,7 +2596,7 @@
     "aqua": 700,
     "aer": 700,
     "terra": 700,
-    "power_level": 9254
+    "power_level": 10174
   },
   {
     "id": 10420004,
@@ -2495,6 +2608,7 @@
     "asset_series": "Origin",
     "attack": 880,
     "defense": 400,
+    "hp": 400,
     "luck": 400,
     "speed": 5,
     "evade": 8,
@@ -2505,7 +2619,7 @@
     "aqua": 777,
     "aer": 777,
     "terra": 777,
-    "power_level": 9217
+    "power_level": 9617
   },
   {
     "id": 10430001,
@@ -2517,6 +2631,7 @@
     "asset_series": "Punk",
     "attack": 777,
     "defense": 660,
+    "hp": 660,
     "luck": 0,
     "speed": 4,
     "evade": 6,
@@ -2527,7 +2642,7 @@
     "aqua": 700,
     "aer": 700,
     "terra": 700,
-    "power_level": 7377
+    "power_level": 8037
   },
   {
     "id": 10430002,
@@ -2539,6 +2654,7 @@
     "asset_series": "Punk",
     "attack": 830,
     "defense": 337,
+    "hp": 337,
     "luck": 200,
     "speed": 4,
     "evade": 5,
@@ -2549,7 +2665,7 @@
     "aqua": 600,
     "aer": 600,
     "terra": 600,
-    "power_level": 6705
+    "power_level": 7042
   },
   {
     "id": 10430003,
@@ -2561,6 +2677,7 @@
     "asset_series": "Origin",
     "attack": 890,
     "defense": 200,
+    "hp": 200,
     "luck": 100,
     "speed": 4,
     "evade": 5,
@@ -2571,7 +2688,7 @@
     "aqua": 408,
     "aer": 777,
     "terra": 351,
-    "power_level": 6546
+    "power_level": 6746
   },
   {
     "id": 10430004,
@@ -2583,6 +2700,7 @@
     "asset_series": "Origin",
     "attack": 910,
     "defense": 210,
+    "hp": 210,
     "luck": 800,
     "speed": 4,
     "evade": 6,
@@ -2593,7 +2711,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 7620
+    "power_level": 7830
   },
   {
     "id": 10440001,
@@ -2605,6 +2723,7 @@
     "asset_series": "Punk",
     "attack": 500,
     "defense": 400,
+    "hp": 400,
     "luck": 300,
     "speed": 3,
     "evade": 3,
@@ -2615,7 +2734,7 @@
     "aqua": 250,
     "aer": 250,
     "terra": 200,
-    "power_level": 3450
+    "power_level": 3850
   },
   {
     "id": 10440002,
@@ -2627,6 +2746,7 @@
     "asset_series": "Punk",
     "attack": 676,
     "defense": 100,
+    "hp": 100,
     "luck": 444,
     "speed": 3,
     "evade": 3,
@@ -2637,7 +2757,7 @@
     "aqua": 10,
     "aer": 10,
     "terra": 10,
-    "power_level": 3695
+    "power_level": 3795
   },
   {
     "id": 10440003,
@@ -2649,6 +2769,7 @@
     "asset_series": "Origin",
     "attack": 620,
     "defense": 660,
+    "hp": 660,
     "luck": 280,
     "speed": 3,
     "evade": 4,
@@ -2659,7 +2780,7 @@
     "aqua": 444,
     "aer": 555,
     "terra": 555,
-    "power_level": 5033
+    "power_level": 5693
   },
   {
     "id": 10440004,
@@ -2671,6 +2792,7 @@
     "asset_series": "Origin",
     "attack": 520,
     "defense": 800,
+    "hp": 800,
     "luck": 700,
     "speed": 3,
     "evade": 4,
@@ -2681,7 +2803,7 @@
     "aqua": 890,
     "aer": 0,
     "terra": 0,
-    "power_level": 5150
+    "power_level": 5950
   },
   {
     "id": 10440005,
@@ -2693,6 +2815,7 @@
     "asset_series": "Origin",
     "attack": 200,
     "defense": 800,
+    "hp": 800,
     "luck": 800,
     "speed": 3,
     "evade": 4,
@@ -2703,7 +2826,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 890,
-    "power_level": 4890
+    "power_level": 5690
   },
   {
     "id": 10450001,
@@ -2715,6 +2838,7 @@
     "asset_series": "Punk",
     "attack": 300,
     "defense": 300,
+    "hp": 300,
     "luck": 250,
     "speed": 2,
     "evade": 2,
@@ -2725,7 +2849,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 2050
+    "power_level": 2350
   },
   {
     "id": 10450002,
@@ -2737,6 +2861,7 @@
     "asset_series": "Punk",
     "attack": 100,
     "defense": 200,
+    "hp": 200,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -2747,7 +2872,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1675
+    "power_level": 1875
   },
   {
     "id": 10450003,
@@ -2759,6 +2884,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -2769,7 +2895,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 440,
-    "power_level": 1390
+    "power_level": 1490
   },
   {
     "id": 10450004,
@@ -2781,6 +2907,7 @@
     "asset_series": "Origin",
     "attack": 900,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 2,
@@ -2803,6 +2930,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -2813,7 +2941,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1675
+    "power_level": 1775
   },
   {
     "id": 10520001,
@@ -2825,6 +2953,7 @@
     "asset_series": "Origin",
     "attack": 890,
     "defense": 880,
+    "hp": 880,
     "luck": 810,
     "speed": 5,
     "evade": 8,
@@ -2835,7 +2964,7 @@
     "aqua": 600,
     "aer": 600,
     "terra": 600,
-    "power_level": 9312
+    "power_level": 10192
   },
   {
     "id": 10520002,
@@ -2847,6 +2976,7 @@
     "asset_series": "Origin",
     "attack": 900,
     "defense": 400,
+    "hp": 400,
     "luck": 900,
     "speed": 5,
     "evade": 8,
@@ -2857,7 +2987,7 @@
     "aqua": 500,
     "aer": 790,
     "terra": 450,
-    "power_level": 8886
+    "power_level": 9286
   },
   {
     "id": 10530001,
@@ -2869,6 +2999,7 @@
     "asset_series": "Origin",
     "attack": 690,
     "defense": 500,
+    "hp": 500,
     "luck": 490,
     "speed": 4,
     "evade": 5,
@@ -2879,7 +3010,7 @@
     "aqua": 490,
     "aer": 590,
     "terra": 410,
-    "power_level": 7085
+    "power_level": 7585
   },
   {
     "id": 10530002,
@@ -2891,6 +3022,7 @@
     "asset_series": "Origin",
     "attack": 450,
     "defense": 550,
+    "hp": 550,
     "luck": 200,
     "speed": 4,
     "evade": 5,
@@ -2901,7 +3033,7 @@
     "aqua": 330,
     "aer": 550,
     "terra": 660,
-    "power_level": 6350
+    "power_level": 6900
   },
   {
     "id": 10530003,
@@ -2913,6 +3045,7 @@
     "asset_series": "Origin",
     "attack": 800,
     "defense": 0,
+    "hp": 0,
     "luck": 500,
     "speed": 4,
     "evade": 5,
@@ -2935,6 +3068,7 @@
     "asset_series": "NFT Busan 2021",
     "attack": 380,
     "defense": 380,
+    "hp": 380,
     "luck": 200,
     "speed": 3,
     "evade": 3,
@@ -2945,7 +3079,7 @@
     "aqua": 600,
     "aer": 0,
     "terra": 0,
-    "power_level": 3610
+    "power_level": 3990
   },
   {
     "id": 10540002,
@@ -2957,6 +3091,7 @@
     "asset_series": "Origin",
     "attack": 770,
     "defense": 0,
+    "hp": 0,
     "luck": 409,
     "speed": 3,
     "evade": 3,
@@ -2979,6 +3114,7 @@
     "asset_series": "Origin",
     "attack": 680,
     "defense": 400,
+    "hp": 400,
     "luck": 470,
     "speed": 3,
     "evade": 3,
@@ -2989,7 +3125,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 3604
+    "power_level": 4004
   },
   {
     "id": 10550001,
@@ -3001,6 +3137,7 @@
     "asset_series": "Origin",
     "attack": 200,
     "defense": 200,
+    "hp": 200,
     "luck": 200,
     "speed": 2,
     "evade": 1,
@@ -3011,7 +3148,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 540,
-    "power_level": 1915
+    "power_level": 2115
   },
   {
     "id": 10550002,
@@ -3023,6 +3160,7 @@
     "asset_series": "Origin",
     "attack": 150,
     "defense": 300,
+    "hp": 300,
     "luck": 300,
     "speed": 2,
     "evade": 1,
@@ -3033,7 +3171,7 @@
     "aqua": 10,
     "aer": 10,
     "terra": 10,
-    "power_level": 1540
+    "power_level": 1840
   },
   {
     "id": 10550003,
@@ -3045,6 +3183,7 @@
     "asset_series": "Origin",
     "attack": 400,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 1,
@@ -3067,6 +3206,7 @@
     "asset_series": "Punk",
     "attack": 900,
     "defense": 800,
+    "hp": 800,
     "luck": 990,
     "speed": 5,
     "evade": 7,
@@ -3077,7 +3217,7 @@
     "aqua": 660,
     "aer": 990,
     "terra": 680,
-    "power_level": 10105
+    "power_level": 10905
   },
   {
     "id": 10620002,
@@ -3089,6 +3229,7 @@
     "asset_series": "Punk",
     "attack": 700,
     "defense": 890,
+    "hp": 890,
     "luck": 700,
     "speed": 5,
     "evade": 7,
@@ -3099,7 +3240,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 9720
+    "power_level": 10610
   },
   {
     "id": 10620003,
@@ -3111,6 +3252,7 @@
     "asset_series": "Origin",
     "attack": 900,
     "defense": 800,
+    "hp": 800,
     "luck": 900,
     "speed": 5,
     "evade": 8,
@@ -3121,7 +3263,7 @@
     "aqua": 980,
     "aer": 500,
     "terra": 500,
-    "power_level": 9280
+    "power_level": 10080
   },
   {
     "id": 10620004,
@@ -3133,6 +3275,7 @@
     "asset_series": "Origin",
     "attack": 700,
     "defense": 700,
+    "hp": 700,
     "luck": 700,
     "speed": 5,
     "evade": 7,
@@ -3143,7 +3286,7 @@
     "aqua": 700,
     "aer": 700,
     "terra": 700,
-    "power_level": 9050
+    "power_level": 9750
   },
   {
     "id": 10630001,
@@ -3155,6 +3298,7 @@
     "asset_series": "Punk",
     "attack": 680,
     "defense": 444,
+    "hp": 444,
     "luck": 770,
     "speed": 4,
     "evade": 6,
@@ -3165,7 +3309,7 @@
     "aqua": 650,
     "aer": 560,
     "terra": 650,
-    "power_level": 7414
+    "power_level": 7858
   },
   {
     "id": 10630002,
@@ -3177,6 +3321,7 @@
     "asset_series": "Origin",
     "attack": 430,
     "defense": 790,
+    "hp": 790,
     "luck": 550,
     "speed": 4,
     "evade": 5,
@@ -3187,7 +3332,7 @@
     "aqua": 550,
     "aer": 550,
     "terra": 550,
-    "power_level": 7155
+    "power_level": 7945
   },
   {
     "id": 10630003,
@@ -3199,6 +3344,7 @@
     "asset_series": "Origin",
     "attack": 780,
     "defense": 680,
+    "hp": 680,
     "luck": 777,
     "speed": 4,
     "evade": 6,
@@ -3209,7 +3355,7 @@
     "aqua": 520,
     "aer": 250,
     "terra": 520,
-    "power_level": 7327
+    "power_level": 8007
   },
   {
     "id": 10640001,
@@ -3221,6 +3367,7 @@
     "asset_series": "Punk",
     "attack": 350,
     "defense": 450,
+    "hp": 450,
     "luck": 555,
     "speed": 3,
     "evade": 4,
@@ -3231,7 +3378,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 280,
-    "power_level": 3861
+    "power_level": 4311
   },
   {
     "id": 10640002,
@@ -3243,6 +3390,7 @@
     "asset_series": "Origin",
     "attack": 350,
     "defense": 350,
+    "hp": 350,
     "luck": 350,
     "speed": 3,
     "evade": 4,
@@ -3253,7 +3401,7 @@
     "aqua": 405,
     "aer": 450,
     "terra": 450,
-    "power_level": 4780
+    "power_level": 5130
   },
   {
     "id": 10640003,
@@ -3265,6 +3413,7 @@
     "asset_series": "Origin",
     "attack": 777,
     "defense": 222,
+    "hp": 222,
     "luck": 777,
     "speed": 3,
     "evade": 4,
@@ -3275,7 +3424,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 4153
+    "power_level": 4375
   },
   {
     "id": 10640004,
@@ -3287,6 +3436,7 @@
     "asset_series": "Origin",
     "attack": 333,
     "defense": 333,
+    "hp": 333,
     "luck": 333,
     "speed": 3,
     "evade": 3,
@@ -3297,7 +3447,7 @@
     "aqua": 333,
     "aer": 333,
     "terra": 333,
-    "power_level": 4347
+    "power_level": 4680
   },
   {
     "id": 10650001,
@@ -3309,6 +3459,7 @@
     "asset_series": "Punk",
     "attack": 340,
     "defense": 100,
+    "hp": 100,
     "luck": 0,
     "speed": 2,
     "evade": 2,
@@ -3319,7 +3470,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 400,
-    "power_level": 1990
+    "power_level": 2090
   },
   {
     "id": 10650002,
@@ -3331,6 +3482,7 @@
     "asset_series": "Punk",
     "attack": 100,
     "defense": 350,
+    "hp": 350,
     "luck": 101,
     "speed": 2,
     "evade": 1,
@@ -3341,7 +3493,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 1401
+    "power_level": 1751
   },
   {
     "id": 10650003,
@@ -3353,6 +3505,7 @@
     "asset_series": "Origin",
     "attack": 200,
     "defense": 200,
+    "hp": 200,
     "luck": 200,
     "speed": 2,
     "evade": 2,
@@ -3363,7 +3516,7 @@
     "aqua": 200,
     "aer": 200,
     "terra": 200,
-    "power_level": 2700
+    "power_level": 2900
   },
   {
     "id": 10650004,
@@ -3375,6 +3528,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -3385,7 +3539,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1550
+    "power_level": 1650
   },
   {
     "id": 10650005,
@@ -3397,6 +3551,7 @@
     "asset_series": "Origin",
     "attack": 250,
     "defense": 0,
+    "hp": 0,
     "luck": 0,
     "speed": 2,
     "evade": 1,
@@ -3419,6 +3574,7 @@
     "asset_series": "Tenmen",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -3429,7 +3585,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720002,
@@ -3441,6 +3597,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -3451,7 +3608,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720003,
@@ -3463,6 +3620,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -3473,7 +3631,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720004,
@@ -3485,6 +3643,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -3495,7 +3654,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720005,
@@ -3507,6 +3666,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -3517,7 +3677,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720006,
@@ -3529,6 +3689,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -3539,7 +3700,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720007,
@@ -3551,6 +3712,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -3561,7 +3723,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720008,
@@ -3573,6 +3735,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -3583,7 +3746,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10720009,
@@ -3595,6 +3758,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -3605,7 +3769,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10730001,
@@ -3617,6 +3781,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -3627,7 +3792,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730002,
@@ -3639,6 +3804,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -3649,7 +3815,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730003,
@@ -3661,6 +3827,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -3671,7 +3838,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730004,
@@ -3683,6 +3850,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -3693,7 +3861,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730005,
@@ -3705,6 +3873,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -3715,7 +3884,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730006,
@@ -3727,6 +3896,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -3737,7 +3907,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730007,
@@ -3749,6 +3919,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -3759,7 +3930,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730008,
@@ -3771,6 +3942,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -3781,7 +3953,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730009,
@@ -3793,6 +3965,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -3803,7 +3976,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10730010,
@@ -3815,6 +3988,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -3825,7 +3999,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10740001,
@@ -3837,6 +4011,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -3847,7 +4022,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10350
+    "power_level": 11350
   },
   {
     "id": 10740002,
@@ -3859,6 +4034,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -3869,7 +4045,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10600
+    "power_level": 11600
   },
   {
     "id": 10740003,
@@ -3881,6 +4057,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -3891,7 +4068,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10350
+    "power_level": 11350
   },
   {
     "id": 10740004,
@@ -3903,6 +4080,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -3913,7 +4091,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10600
+    "power_level": 11600
   },
   {
     "id": 10740005,
@@ -3925,6 +4103,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -3935,7 +4114,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10740006,
@@ -3947,6 +4126,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -3957,7 +4137,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10740007,
@@ -3969,6 +4149,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -3979,7 +4160,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10740008,
@@ -3991,6 +4172,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -4001,7 +4183,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10740009,
@@ -4013,6 +4195,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -4023,7 +4206,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10750001,
@@ -4035,6 +4218,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4045,7 +4229,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750002,
@@ -4057,6 +4241,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -4067,7 +4252,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750003,
@@ -4079,6 +4264,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4089,7 +4275,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750004,
@@ -4101,6 +4287,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -4111,7 +4298,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750005,
@@ -4123,6 +4310,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4133,7 +4321,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750006,
@@ -4145,6 +4333,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -4155,7 +4344,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750007,
@@ -4167,6 +4356,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4177,7 +4367,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750008,
@@ -4189,6 +4379,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4199,7 +4390,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750009,
@@ -4211,6 +4402,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -4221,7 +4413,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750010,
@@ -4233,6 +4425,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4243,7 +4436,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750011,
@@ -4255,6 +4448,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -4265,7 +4459,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750012,
@@ -4277,6 +4471,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4287,7 +4482,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750013,
@@ -4299,6 +4494,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -4309,7 +4505,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10750014,
@@ -4321,6 +4517,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -4331,7 +4528,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10810001,
@@ -4343,6 +4540,7 @@
     "asset_series": "Meta Clone",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -4353,7 +4551,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 12000
+    "power_level": 13000
   },
   {
     "id": 10820001,
@@ -4365,6 +4563,7 @@
     "asset_series": "J.Boots",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -4375,7 +4574,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10820002,
@@ -4387,6 +4586,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -4397,7 +4597,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10820003,
@@ -4409,6 +4609,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -4419,7 +4620,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10820004,
@@ -4431,6 +4632,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -4441,7 +4643,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10820005,
@@ -4453,6 +4655,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -4463,7 +4666,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10820006,
@@ -4475,6 +4678,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 7,
@@ -4485,7 +4689,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10820007,
@@ -4497,6 +4701,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -4507,7 +4712,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11875
+    "power_level": 12875
   },
   {
     "id": 10830001,
@@ -4519,6 +4724,7 @@
     "asset_series": "Halloween 2021",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4529,7 +4735,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830002,
@@ -4541,6 +4747,7 @@
     "asset_series": "Supporters",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4551,7 +4758,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830003,
@@ -4563,6 +4770,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4573,7 +4781,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830004,
@@ -4585,6 +4793,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4595,7 +4804,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830005,
@@ -4607,6 +4816,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4617,7 +4827,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830006,
@@ -4629,6 +4839,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4639,7 +4850,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830007,
@@ -4651,6 +4862,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4661,7 +4873,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830008,
@@ -4673,6 +4885,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4683,7 +4896,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830009,
@@ -4695,6 +4908,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4705,7 +4919,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830010,
@@ -4717,6 +4931,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4727,7 +4942,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830011,
@@ -4739,6 +4954,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4749,7 +4965,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830012,
@@ -4761,6 +4977,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4771,7 +4988,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830013,
@@ -4783,6 +5000,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4793,7 +5011,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830014,
@@ -4805,6 +5023,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4815,7 +5034,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830015,
@@ -4827,6 +5046,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 6,
@@ -4837,7 +5057,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830016,
@@ -4849,6 +5069,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4859,7 +5080,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10830017,
@@ -4871,6 +5092,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 4,
     "evade": 5,
@@ -4881,7 +5103,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 11175
+    "power_level": 12175
   },
   {
     "id": 10840001,
@@ -4893,6 +5115,7 @@
     "asset_series": "NFT Busan 2021",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -4903,7 +5126,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840002,
@@ -4915,6 +5138,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -4925,7 +5149,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840003,
@@ -4937,6 +5161,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -4947,7 +5172,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840004,
@@ -4959,6 +5184,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -4969,7 +5195,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840005,
@@ -4981,6 +5207,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -4991,7 +5218,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840006,
@@ -5003,6 +5230,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -5013,7 +5241,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840007,
@@ -5025,6 +5253,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -5035,7 +5264,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840008,
@@ -5047,6 +5276,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -5057,7 +5287,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840009,
@@ -5069,6 +5299,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -5079,7 +5310,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840010,
@@ -5091,6 +5322,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -5101,7 +5333,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840011,
@@ -5113,6 +5345,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -5123,7 +5356,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840012,
@@ -5135,6 +5368,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -5145,7 +5379,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840013,
@@ -5157,6 +5391,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -5167,7 +5402,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840014,
@@ -5179,6 +5414,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -5189,7 +5425,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840015,
@@ -5201,6 +5437,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -5211,7 +5448,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840016,
@@ -5223,6 +5460,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -5233,7 +5471,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840017,
@@ -5245,6 +5483,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 4,
@@ -5255,7 +5494,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10840018,
@@ -5267,6 +5506,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 3,
     "evade": 3,
@@ -5277,7 +5517,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 10475
+    "power_level": 11475
   },
   {
     "id": 10850001,
@@ -5289,6 +5529,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -5299,7 +5540,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850002,
@@ -5311,6 +5552,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -5321,7 +5563,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850003,
@@ -5333,6 +5575,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -5343,7 +5586,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850004,
@@ -5355,6 +5598,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -5365,7 +5609,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850005,
@@ -5377,6 +5621,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -5387,7 +5632,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850006,
@@ -5399,6 +5644,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -5409,7 +5655,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850007,
@@ -5421,6 +5667,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -5431,7 +5678,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850008,
@@ -5443,6 +5690,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -5453,7 +5701,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850009,
@@ -5465,6 +5713,7 @@
     "asset_series": "Punk",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -5475,7 +5724,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850010,
@@ -5487,6 +5736,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -5497,7 +5747,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850011,
@@ -5509,6 +5759,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -5519,7 +5770,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850012,
@@ -5531,6 +5782,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 1,
@@ -5541,7 +5793,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10850013,
@@ -5553,6 +5805,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 1000,
+    "hp": 1000,
     "luck": 1000,
     "speed": 2,
     "evade": 2,
@@ -5563,7 +5816,7 @@
     "aqua": 1000,
     "aer": 1000,
     "terra": 1000,
-    "power_level": 9775
+    "power_level": 10775
   },
   {
     "id": 10910001,
@@ -5575,6 +5828,7 @@
     "asset_series": "Meta Clone",
     "attack": 999,
     "defense": 999,
+    "hp": 999,
     "luck": 999,
     "speed": 5,
     "evade": 8,
@@ -5585,7 +5839,7 @@
     "aqua": 900,
     "aer": 900,
     "terra": 900,
-    "power_level": 11397
+    "power_level": 12396
   },
   {
     "id": 10920001,
@@ -5597,6 +5851,7 @@
     "asset_series": "J.Boots",
     "attack": 800,
     "defense": 790,
+    "hp": 790,
     "luck": 880,
     "speed": 5,
     "evade": 7,
@@ -5607,7 +5862,7 @@
     "aqua": 500,
     "aer": 980,
     "terra": 780,
-    "power_level": 9160
+    "power_level": 9950
   },
   {
     "id": 10920002,
@@ -5619,6 +5874,7 @@
     "asset_series": "Punk",
     "attack": 889,
     "defense": 599,
+    "hp": 599,
     "luck": 499,
     "speed": 5,
     "evade": 7,
@@ -5629,7 +5885,7 @@
     "aqua": 730,
     "aer": 666,
     "terra": 899,
-    "power_level": 8984
+    "power_level": 9583
   },
   {
     "id": 10920003,
@@ -5641,6 +5897,7 @@
     "asset_series": "Punk",
     "attack": 914,
     "defense": 888,
+    "hp": 888,
     "luck": 777,
     "speed": 5,
     "evade": 7,
@@ -5651,7 +5908,7 @@
     "aqua": 770,
     "aer": 770,
     "terra": 770,
-    "power_level": 10199
+    "power_level": 11087
   },
   {
     "id": 10920004,
@@ -5663,6 +5920,7 @@
     "asset_series": "Origin",
     "attack": 888,
     "defense": 888,
+    "hp": 888,
     "luck": 888,
     "speed": 5,
     "evade": 8,
@@ -5673,7 +5931,7 @@
     "aqua": 888,
     "aer": 888,
     "terra": 888,
-    "power_level": 10104
+    "power_level": 10992
   },
   {
     "id": 10930001,
@@ -5685,6 +5943,7 @@
     "asset_series": "Halloween 2021",
     "attack": 870,
     "defense": 240,
+    "hp": 240,
     "luck": 888,
     "speed": 4,
     "evade": 5,
@@ -5695,7 +5954,7 @@
     "aqua": 333,
     "aer": 333,
     "terra": 333,
-    "power_level": 6268
+    "power_level": 6508
   },
   {
     "id": 10930002,
@@ -5707,6 +5966,7 @@
     "asset_series": "Punk",
     "attack": 222,
     "defense": 887,
+    "hp": 887,
     "luck": 666,
     "speed": 4,
     "evade": 5,
@@ -5717,7 +5977,7 @@
     "aqua": 442,
     "aer": 227,
     "terra": 447,
-    "power_level": 6599
+    "power_level": 7486
   },
   {
     "id": 10930003,
@@ -5729,6 +5989,7 @@
     "asset_series": "Punk",
     "attack": 0,
     "defense": 777,
+    "hp": 777,
     "luck": 666,
     "speed": 4,
     "evade": 6,
@@ -5739,7 +6000,7 @@
     "aqua": 222,
     "aer": 888,
     "terra": 410,
-    "power_level": 6484
+    "power_level": 7261
   },
   {
     "id": 10930004,
@@ -5751,6 +6012,7 @@
     "asset_series": "Origin",
     "attack": 680,
     "defense": 600,
+    "hp": 600,
     "luck": 700,
     "speed": 4,
     "evade": 6,
@@ -5761,7 +6023,7 @@
     "aqua": 440,
     "aer": 775,
     "terra": 777,
-    "power_level": 7247
+    "power_level": 7847
   },
   {
     "id": 10930005,
@@ -5773,6 +6035,7 @@
     "asset_series": "Origin",
     "attack": 581,
     "defense": 880,
+    "hp": 880,
     "luck": 788,
     "speed": 4,
     "evade": 6,
@@ -5783,7 +6046,7 @@
     "aqua": 100,
     "aer": 880,
     "terra": 100,
-    "power_level": 7448
+    "power_level": 8328
   },
   {
     "id": 10930006,
@@ -5795,6 +6058,7 @@
     "asset_series": "Origin",
     "attack": 889,
     "defense": 900,
+    "hp": 900,
     "luck": 300,
     "speed": 4,
     "evade": 6,
@@ -5805,7 +6069,7 @@
     "aqua": 300,
     "aer": 300,
     "terra": 300,
-    "power_level": 6759
+    "power_level": 7659
   },
   {
     "id": 10940001,
@@ -5817,6 +6081,7 @@
     "asset_series": "NFT Busan 2021",
     "attack": 450,
     "defense": 200,
+    "hp": 200,
     "luck": 200,
     "speed": 3,
     "evade": 3,
@@ -5827,7 +6092,7 @@
     "aqua": 680,
     "aer": 330,
     "terra": 330,
-    "power_level": 3940
+    "power_level": 4140
   },
   {
     "id": 10940002,
@@ -5839,6 +6104,7 @@
     "asset_series": "Punk",
     "attack": 523,
     "defense": 339,
+    "hp": 339,
     "luck": 210,
     "speed": 3,
     "evade": 4,
@@ -5849,7 +6115,7 @@
     "aqua": 128,
     "aer": 121,
     "terra": 500,
-    "power_level": 3885
+    "power_level": 4224
   },
   {
     "id": 10940003,
@@ -5861,6 +6127,7 @@
     "asset_series": "Punk",
     "attack": 689,
     "defense": 211,
+    "hp": 211,
     "luck": 447,
     "speed": 3,
     "evade": 4,
@@ -5871,7 +6138,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 441,
-    "power_level": 4277
+    "power_level": 4488
   },
   {
     "id": 10940004,
@@ -5883,6 +6150,7 @@
     "asset_series": "Origin",
     "attack": 440,
     "defense": 421,
+    "hp": 421,
     "luck": 220,
     "speed": 3,
     "evade": 3,
@@ -5893,7 +6161,7 @@
     "aqua": 221,
     "aer": 222,
     "terra": 119,
-    "power_level": 4119
+    "power_level": 4540
   },
   {
     "id": 10940005,
@@ -5905,6 +6173,7 @@
     "asset_series": "Origin",
     "attack": 330,
     "defense": 220,
+    "hp": 220,
     "luck": 800,
     "speed": 3,
     "evade": 4,
@@ -5915,7 +6184,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 4350
+    "power_level": 4570
   },
   {
     "id": 10940006,
@@ -5927,6 +6196,7 @@
     "asset_series": "Origin",
     "attack": 660,
     "defense": 590,
+    "hp": 590,
     "luck": 220,
     "speed": 3,
     "evade": 3,
@@ -5937,7 +6207,7 @@
     "aqua": 100,
     "aer": 200,
     "terra": 200,
-    "power_level": 3720
+    "power_level": 4310
   },
   {
     "id": 10950001,
@@ -5949,6 +6219,7 @@
     "asset_series": "Punk",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -5959,7 +6230,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1550
+    "power_level": 1650
   },
   {
     "id": 10950002,
@@ -5971,6 +6242,7 @@
     "asset_series": "Punk",
     "attack": 300,
     "defense": 0,
+    "hp": 0,
     "luck": 250,
     "speed": 2,
     "evade": 2,
@@ -5993,6 +6265,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -6003,7 +6276,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1550
+    "power_level": 1650
   },
   {
     "id": 10950004,
@@ -6015,6 +6288,7 @@
     "asset_series": "Origin",
     "attack": 200,
     "defense": 0,
+    "hp": 0,
     "luck": 200,
     "speed": 2,
     "evade": 1,
@@ -6037,6 +6311,7 @@
     "asset_series": "J.Boots",
     "attack": 339,
     "defense": 927,
+    "hp": 927,
     "luck": 779,
     "speed": 5,
     "evade": 7,
@@ -6047,7 +6322,7 @@
     "aqua": 888,
     "aer": 888,
     "terra": 888,
-    "power_level": 9452
+    "power_level": 10379
   },
   {
     "id": 11020002,
@@ -6059,6 +6334,7 @@
     "asset_series": "Punk",
     "attack": 900,
     "defense": 900,
+    "hp": 900,
     "luck": 900,
     "speed": 5,
     "evade": 7,
@@ -6069,7 +6345,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 800,
-    "power_level": 10426
+    "power_level": 11326
   },
   {
     "id": 11020003,
@@ -6081,6 +6357,7 @@
     "asset_series": "Origin",
     "attack": 950,
     "defense": 390,
+    "hp": 390,
     "luck": 950,
     "speed": 5,
     "evade": 8,
@@ -6091,7 +6368,7 @@
     "aqua": 700,
     "aer": 800,
     "terra": 800,
-    "power_level": 9265
+    "power_level": 9655
   },
   {
     "id": 11030001,
@@ -6103,6 +6380,7 @@
     "asset_series": "Punk",
     "attack": 100,
     "defense": 800,
+    "hp": 800,
     "luck": 800,
     "speed": 4,
     "evade": 5,
@@ -6113,7 +6391,7 @@
     "aqua": 800,
     "aer": 800,
     "terra": 0,
-    "power_level": 6275
+    "power_level": 7075
   },
   {
     "id": 11030002,
@@ -6125,6 +6403,7 @@
     "asset_series": "Punk",
     "attack": 500,
     "defense": 500,
+    "hp": 500,
     "luck": 500,
     "speed": 4,
     "evade": 6,
@@ -6135,7 +6414,7 @@
     "aqua": 500,
     "aer": 500,
     "terra": 500,
-    "power_level": 6675
+    "power_level": 7175
   },
   {
     "id": 11030003,
@@ -6147,6 +6426,7 @@
     "asset_series": "Origin",
     "attack": 890,
     "defense": 500,
+    "hp": 500,
     "luck": 0,
     "speed": 4,
     "evade": 6,
@@ -6157,7 +6437,7 @@
     "aqua": 600,
     "aer": 600,
     "terra": 600,
-    "power_level": 7234
+    "power_level": 7734
   },
   {
     "id": 11030004,
@@ -6169,6 +6449,7 @@
     "asset_series": "Origin",
     "attack": 600,
     "defense": 300,
+    "hp": 300,
     "luck": 600,
     "speed": 4,
     "evade": 5,
@@ -6179,7 +6460,7 @@
     "aqua": 600,
     "aer": 800,
     "terra": 279,
-    "power_level": 6446
+    "power_level": 6746
   },
   {
     "id": 11040001,
@@ -6191,6 +6472,7 @@
     "asset_series": "Punk",
     "attack": 450,
     "defense": 500,
+    "hp": 500,
     "luck": 200,
     "speed": 3,
     "evade": 4,
@@ -6201,7 +6483,7 @@
     "aqua": 250,
     "aer": 250,
     "terra": 250,
-    "power_level": 4125
+    "power_level": 4625
   },
   {
     "id": 11040002,
@@ -6213,6 +6495,7 @@
     "asset_series": "Punk",
     "attack": 490,
     "defense": 490,
+    "hp": 490,
     "luck": 0,
     "speed": 3,
     "evade": 3,
@@ -6223,7 +6506,7 @@
     "aqua": 500,
     "aer": 500,
     "terra": 0,
-    "power_level": 3955
+    "power_level": 4445
   },
   {
     "id": 11040003,
@@ -6235,6 +6518,7 @@
     "asset_series": "Origin",
     "attack": 490,
     "defense": 890,
+    "hp": 890,
     "luck": 222,
     "speed": 3,
     "evade": 4,
@@ -6245,7 +6529,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 666,
-    "power_level": 4748
+    "power_level": 5638
   },
   {
     "id": 11040004,
@@ -6257,6 +6541,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 760,
+    "hp": 760,
     "luck": 440,
     "speed": 3,
     "evade": 3,
@@ -6267,7 +6552,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 4055
+    "power_level": 4815
   },
   {
     "id": 11050001,
@@ -6279,6 +6564,7 @@
     "asset_series": "Punk",
     "attack": 333,
     "defense": 220,
+    "hp": 220,
     "luck": 201,
     "speed": 2,
     "evade": 1,
@@ -6289,7 +6575,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 1939
+    "power_level": 2159
   },
   {
     "id": 11050002,
@@ -6301,6 +6587,7 @@
     "asset_series": "Punk",
     "attack": 222,
     "defense": 222,
+    "hp": 222,
     "luck": 222,
     "speed": 2,
     "evade": 2,
@@ -6311,7 +6598,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 1941
+    "power_level": 2163
   },
   {
     "id": 11050003,
@@ -6323,6 +6610,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 800,
     "speed": 2,
     "evade": 1,
@@ -6333,7 +6621,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 1775
+    "power_level": 1875
   },
   {
     "id": 11050004,
@@ -6345,6 +6633,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -6355,7 +6644,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1550
+    "power_level": 1650
   },
   {
     "id": 11120001,
@@ -6367,6 +6656,7 @@
     "asset_series": "J.Boots",
     "attack": 800,
     "defense": 890,
+    "hp": 890,
     "luck": 990,
     "speed": 5,
     "evade": 8,
@@ -6377,7 +6667,7 @@
     "aqua": 890,
     "aer": 890,
     "terra": 890,
-    "power_level": 10055
+    "power_level": 10945
   },
   {
     "id": 11120002,
@@ -6389,6 +6679,7 @@
     "asset_series": "Punk",
     "attack": 999,
     "defense": 800,
+    "hp": 800,
     "luck": 790,
     "speed": 5,
     "evade": 8,
@@ -6399,7 +6690,7 @@
     "aqua": 888,
     "aer": 888,
     "terra": 888,
-    "power_level": 10144
+    "power_level": 10944
   },
   {
     "id": 11120003,
@@ -6411,6 +6702,7 @@
     "asset_series": "Origin",
     "attack": 1000,
     "defense": 890,
+    "hp": 890,
     "luck": 1000,
     "speed": 5,
     "evade": 8,
@@ -6421,7 +6713,7 @@
     "aqua": 666,
     "aer": 666,
     "terra": 666,
-    "power_level": 9886
+    "power_level": 10776
   },
   {
     "id": 11130001,
@@ -6433,6 +6725,7 @@
     "asset_series": "Punk",
     "attack": 300,
     "defense": 890,
+    "hp": 890,
     "luck": 680,
     "speed": 4,
     "evade": 6,
@@ -6443,7 +6736,7 @@
     "aqua": 240,
     "aer": 621,
     "terra": 521,
-    "power_level": 6736
+    "power_level": 7626
   },
   {
     "id": 11130002,
@@ -6455,6 +6748,7 @@
     "asset_series": "Punk",
     "attack": 689,
     "defense": 689,
+    "hp": 689,
     "luck": 211,
     "speed": 4,
     "evade": 5,
@@ -6465,7 +6759,7 @@
     "aqua": 400,
     "aer": 400,
     "terra": 400,
-    "power_level": 6252
+    "power_level": 6941
   },
   {
     "id": 11130003,
@@ -6477,6 +6771,7 @@
     "asset_series": "Origin",
     "attack": 800,
     "defense": 600,
+    "hp": 600,
     "luck": 600,
     "speed": 4,
     "evade": 6,
@@ -6487,7 +6782,7 @@
     "aqua": 890,
     "aer": 400,
     "terra": 350,
-    "power_level": 7540
+    "power_level": 8140
   },
   {
     "id": 11130004,
@@ -6499,6 +6794,7 @@
     "asset_series": "Origin",
     "attack": 700,
     "defense": 300,
+    "hp": 300,
     "luck": 700,
     "speed": 4,
     "evade": 5,
@@ -6509,7 +6805,7 @@
     "aqua": 880,
     "aer": 510,
     "terra": 300,
-    "power_level": 7238
+    "power_level": 7538
   },
   {
     "id": 11140001,
@@ -6521,6 +6817,7 @@
     "asset_series": "Punk",
     "attack": 500,
     "defense": 100,
+    "hp": 100,
     "luck": 196,
     "speed": 3,
     "evade": 3,
@@ -6531,7 +6828,7 @@
     "aqua": 0,
     "aer": 0,
     "terra": 0,
-    "power_level": 3871
+    "power_level": 3971
   },
   {
     "id": 11140002,
@@ -6543,6 +6840,7 @@
     "asset_series": "Punk",
     "attack": 200,
     "defense": 600,
+    "hp": 600,
     "luck": 150,
     "speed": 3,
     "evade": 4,
@@ -6553,7 +6851,7 @@
     "aqua": 520,
     "aer": 0,
     "terra": 0,
-    "power_level": 3735
+    "power_level": 4335
   },
   {
     "id": 11140003,
@@ -6565,6 +6863,7 @@
     "asset_series": "Origin",
     "attack": 400,
     "defense": 600,
+    "hp": 600,
     "luck": 707,
     "speed": 3,
     "evade": 4,
@@ -6575,7 +6874,7 @@
     "aqua": 0,
     "aer": 480,
     "terra": 0,
-    "power_level": 5077
+    "power_level": 5677
   },
   {
     "id": 11140004,
@@ -6587,6 +6886,7 @@
     "asset_series": "Origin",
     "attack": 0,
     "defense": 680,
+    "hp": 680,
     "luck": 0,
     "speed": 3,
     "evade": 3,
@@ -6597,7 +6897,7 @@
     "aqua": 200,
     "aer": 222,
     "terra": 200,
-    "power_level": 3540
+    "power_level": 4220
   },
   {
     "id": 11150001,
@@ -6609,6 +6909,7 @@
     "asset_series": "Punk",
     "attack": 250,
     "defense": 100,
+    "hp": 100,
     "luck": 200,
     "speed": 2,
     "evade": 2,
@@ -6619,7 +6920,7 @@
     "aqua": 120,
     "aer": 100,
     "terra": 281,
-    "power_level": 2106
+    "power_level": 2206
   },
   {
     "id": 11150002,
@@ -6631,6 +6932,7 @@
     "asset_series": "Punk",
     "attack": 300,
     "defense": 0,
+    "hp": 0,
     "luck": 300,
     "speed": 2,
     "evade": 1,
@@ -6653,6 +6955,7 @@
     "asset_series": "Origin",
     "attack": 100,
     "defense": 100,
+    "hp": 100,
     "luck": 100,
     "speed": 2,
     "evade": 1,
@@ -6663,7 +6966,7 @@
     "aqua": 100,
     "aer": 100,
     "terra": 100,
-    "power_level": 1550
+    "power_level": 1650
   },
   {
     "id": 11220001,
@@ -6675,6 +6978,7 @@
     "asset_series": "Tenmen",
     "attack": 500,
     "defense": 500,
+    "hp": 500,
     "luck": 500,
     "speed": 5,
     "evade": 8,
@@ -6685,6 +6989,6 @@
     "aqua": 888,
     "aer": 888,
     "terra": 888,
-    "power_level": 8877
+    "power_level": 9377
   }
 ]

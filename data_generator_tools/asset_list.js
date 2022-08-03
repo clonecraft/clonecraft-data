@@ -35,6 +35,7 @@ function generator() {
         power_level: assetStatusCalculator(baseList[i].power_level, assetStatueCalcValue),
         attack: assetStatusCalculator(baseList[i].attack, assetStatueCalcValue),
         defense: assetStatusCalculator(baseList[i].defense, assetStatueCalcValue),
+        hp: assetStatusCalculator(baseList[i].hp, assetStatueCalcValue),
         luck: assetStatusCalculator(baseList[i].luck, assetStatueCalcValue),
         speed: baseList[i].speed,
         evade: baseList[i].evade,
