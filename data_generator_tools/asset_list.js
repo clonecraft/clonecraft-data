@@ -10,6 +10,8 @@ const MAIN_IMAGE_BASE_URL =
   'https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/main-image/'
 const THUMBNAIL_IMAGE_BASE_URL =
   'https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/thumbnail-image/'
+const THUMBNAIL_BASE_IMAGE_BASE_URL =
+  'https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/thumbnail-base-image/'
 
 generator()
 genAssetJSONData()
@@ -29,6 +31,7 @@ function generator() {
         image: `${MAIN_IMAGE_BASE_URL}${baseList[i].id}.png`,
         base_image: `${BASE_IMAGE_BASE_URL}${baseList[i].id}.png`,
         thumbnail_image: `${THUMBNAIL_IMAGE_BASE_URL}${baseList[i].id}.png`,
+        thumbnail_base_image: `${THUMBNAIL_BASE_IMAGE_BASE_URL}${baseList[i].id}.png`,
         asset_type: baseList[i].asset_type,
         asset_grade: baseList[i].asset_grade,
         asset_series: baseList[i].asset_series,
