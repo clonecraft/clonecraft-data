@@ -11,7 +11,8 @@
     "name": "CxNxD Toon #1", // nft의 이름, 강화될 경우 이름 뒤에 + 강화횟수가 붙음
     "image": "https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/main-image/10110001.png", // nft의 보여지는 이미지
     "base_image": "https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/base-image/10110001.png", // 클론 v3 이미지 조합에 사용될 이미지
-    "thumbnail_image": "https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/thumbnail-image/10110001.png", // 클론 v3 이미지 조합에 사용될 이미지
+    "thumbnail_image": "https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/thumbnail-image/10110001.png", // 썹네일용 이미지
+    "thumbnail_base_image": "https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/thumbnail-base-image/10110001.png", // 썹네일용 이미지
     "asset_type": "background", //에셋 타입, 총 12개로 구분됨
     "asset_grade": "genesis", //에셋 등급, 총 5개로 구분됨
     "asset_series": "Art", //에셋 시리즈, nft기획시 묶어서 기획된 nft나 비슷한 성향의 nft를 나타냄
