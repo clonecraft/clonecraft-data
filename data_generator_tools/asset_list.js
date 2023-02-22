@@ -22,7 +22,7 @@ function generator() {
       const upgradeLevel = j
       const assetStatueCalcValue = upgradeLevel + 1
       const id = parseInt(baseList[i].id.toString() + j.toString().padStart(2, '0'))
-      const name = j === 0 ? baseList[i].name : `${baseList[i].name} + ${j}`
+      const name = j === 0 ? baseList[i].name : `${baseList[i].name} +${j}`
       const price = pricing(baseList[i].asset_grade)
       const buyable = isBuyable(upgradeLevel, baseList[i].asset_series)
       const assetData = {
