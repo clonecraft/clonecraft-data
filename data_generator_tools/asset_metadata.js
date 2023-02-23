@@ -1,5 +1,5 @@
 const fs = require('fs')
-const assetListJsonData = require('../data/asset/asset_list.json')
+const assetListJsonData = require('../data/asset_list/asset_list.json')
 
 let assetList = []
 
@@ -65,7 +65,7 @@ function genMetadata(
     attributes: [
       {
         trait_type: 'asset id',
-        value: asset_id,
+        value: asset_id.toString(),
       },
       {
         trait_type: 'asset type',
