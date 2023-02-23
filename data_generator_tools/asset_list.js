@@ -1,4 +1,4 @@
-const baseList = require('./base_data/clone_asset.json')
+const baseList = require('../data/base_data/clone_asset.json')
 const fs = require('fs')
 
 const assetList = []
