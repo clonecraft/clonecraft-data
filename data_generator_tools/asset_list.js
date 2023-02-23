@@ -100,8 +100,8 @@ function genAssetJSONData() {
   const fileDate = `${year}-${month >= 10 ? month : '0' + month}-${date >= 10 ? date : '0' + date}`
 
   fs.writeFileSync(
-    `./data/asset/ex/asset_list_${fileDate}.json`,
+    `./data/asset_list/ex/asset_list_${fileDate}.json`,
     JSON.stringify(assetList, null, 2)
   )
-  fs.writeFileSync(`./data/asset/asset_list.json`, JSON.stringify(assetList, null, 2))
+  fs.writeFileSync(`./data/asset_list/asset_list.json`, JSON.stringify(assetList, null, 2))
 }
