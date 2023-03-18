@@ -13,8 +13,43 @@ const THUMBNAIL_IMAGE_BASE_URL =
 const THUMBNAIL_BASE_IMAGE_BASE_URL =
   'https://storage.googleapis.com/clonecraft-asset/nft-images/cnd-asset/thumbnail-base-image/'
 
+init()
 generator()
 genAssetJSONData()
+
+function init() {
+  const assetData = {
+    id: 0,
+    name: 'None',
+    image: `${MAIN_IMAGE_BASE_URL}0.png`,
+    base_image: `${BASE_IMAGE_BASE_URL}0.png`,
+    thumbnail_image: `${THUMBNAIL_IMAGE_BASE_URL}0.png`,
+    thumbnail_base_image: `${THUMBNAIL_BASE_IMAGE_BASE_URL}0.png`,
+    description: 'none',
+    asset_id: 0,
+    asset_type: 'none',
+    asset_grade: 'none',
+    asset_series: 'none',
+    price: 0,
+    buyable: false,
+    upgrade_level: 0,
+    power_level: 0,
+    attack: 0,
+    defense: 0,
+    hp: 0,
+    luck: 0,
+    speed: 0,
+    evade: 0,
+    hitrate: 0,
+    divine: 0,
+    diabolic: 0,
+    ignis: 0,
+    aqua: 0,
+    aer: 0,
+    terra: 0,
+  }
+  assetList.push(assetData)
+}
 
 function generator() {
   for (let i = 0; i < baseList.length; i++) {
