@@ -1,5 +1,6 @@
 const fs = require('fs')
 const assetListJsonData = require('../data/asset_list/asset_list.json')
+const { sha256 } = require('js-sha256')
 
 let assetList = []
 
@@ -159,6 +160,8 @@ function genMetadata(
 }
 generator()
 genAssetJSONData()
+genChecksum()
+
 function generator() {
   for (let i = 0; i < assetListJsonData.length; i++) {
     const {
@@ -223,6 +226,11 @@ function generator() {
     )
     assetList.push(assetData)
   }
+}
+
+function genChecksum() {
+  const hash = sha256(JSON.stringify(assetList, null, 2))
+  fs.writeFileSync(`./data/asset_metadata/checksum`, hash)
 }
 
 function genAssetJSONData() {
