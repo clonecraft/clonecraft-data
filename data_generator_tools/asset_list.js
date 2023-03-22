@@ -67,7 +67,7 @@ function generator() {
         base_image: `${BASE_IMAGE_BASE_URL}${baseList[i].id}.png`,
         thumbnail_image: `${THUMBNAIL_IMAGE_BASE_URL}${baseList[i].id}.png`,
         thumbnail_base_image: `${THUMBNAIL_BASE_IMAGE_BASE_URL}${baseList[i].id}.png`,
-        description: 'asset description',
+        description: baseList[i].description,
         asset_id: baseList[i].id,
         asset_type: baseList[i].asset_type,
         asset_grade: baseList[i].asset_grade,
